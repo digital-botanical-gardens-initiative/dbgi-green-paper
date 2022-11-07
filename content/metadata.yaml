@@ -1,27 +1,32 @@
 ---
-title: "Manuscript Title"
+title: "The Digital Botanical Gardens Initiative"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - natural products
+  - metabolomics
+  - chemodiversity
+  - biodiversity
+  - linked open data
+  - knowledge graph
+  - biodiversity conservation
+
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+  - github: digital-botanical-gardens-initiative
+    name: The Digital Botanical Gardens Initiative Consortium
+    # initials: PMA
+    # orcid: XXXX-XXXX-XXXX-XXXX
+    # twitter: johndoe
+    # email: dbgi@protonmail.com
+    # affiliations:
+    #   - Department of Something, University of Whatever
+    # funders:
+    #   - Grant XXXXXXXX
+  # - github: janeroe
+  #   name: Jane Roe
+  #   initials: JR
+  #   orcid: XXXX-XXXX-XXXX-XXXX
+  #   email: jane.roe@whatever.edu
+  #   affiliations:
+  #     - Department of Something, University of Whatever
+  #     - Department of Whatever, University of Something
     corresponding: true
