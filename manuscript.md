@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2511715121a53a10bc795095b505f4c291bef6df/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2511715121a53a10bc795095b505f4c291bef6df/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2511715121a53a10bc795095b505f4c291bef6df/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8cdea7061277e1784ef896b7cf740dacda0b6224/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8cdea7061277e1784ef896b7cf740dacda0b6224/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8cdea7061277e1784ef896b7cf740dacda0b6224/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2511715121a53a10bc795095b505f4c291bef6df/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8cdea7061277e1784ef896b7cf740dacda0b6224/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@2511715](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/2511715121a53a10bc795095b505f4c291bef6df)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@8cdea70](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/8cdea7061277e1784ef896b7cf740dacda0b6224)
 on November 7, 2022.
 </em></small>
 
@@ -91,18 +91,14 @@ The Digital Botanical Gardens Initiative Consortium \<dbgi@protonmail.com\>.
 
 ## Abstract {.page_break_before}
 
-
 The Digital Botanical Gardens Initiative (DBGI) ambitions to explore innovative solutions for the collection, management and sharing of digital information acquired on living botanical collections. A particular focus will be placed on the large scale characterization of the chemodiversity of living plants collections through mass spectrometric approaches. The acquired data will be structured, organized and connected with relevant metadata through semantic web technology. The gathered knowledge will then inform ecosystem functioning research and orient biodiversity conservation projects. The DBGI initially aims to take advantage of the readily available living collections of Swiss botanical gardens to establish robust and scalable chemo- and biodiversity digitisation workflows. The ultimate goal is to apply these approaches in the field and at the global scale in wild ecosystems. 
-
-
-
 
 ## Goals {.page_break_before}
 
 
 ![
 **Main goals of the Digital Botanical Gardens Initiative.**
-](images/dbgi-goals.pdf "Workflow"){#fig:dbgi-goals width="100%"}
+](images/dbgi-goals.svg "Workflow"){#fig:dbgi-goals width="100%"}
 
 The main goals of the DBGI are resumed in Figure @fig:dbgi-goals Some details are given hereafter:
 
