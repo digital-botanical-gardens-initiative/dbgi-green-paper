@@ -1,24 +1,27 @@
 ---
-title: Manuscript Title
+title: The Digital Botanical Gardens Initiative
 keywords:
-- markdown
-- publishing
-- manubot
+- natural products
+- metabolomics
+- chemodiversity
+- biodiversity
+- linked open data
+- knowledge graph
+- biodiversity conservation
 lang: en-US
 date-meta: '2022-11-07'
 author-meta:
-- John Doe
-- Jane Roe
+- The Digital Botanical Gardens Initiative Consortium
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="The Digital Botanical Gardens Initiative" />
+  <meta name="citation_title" content="The Digital Botanical Gardens Initiative" />
+  <meta property="og:title" content="The Digital Botanical Gardens Initiative" />
+  <meta property="twitter:title" content="The Digital Botanical Gardens Initiative" />
   <meta name="dc.date" content="2022-11-07" />
   <meta name="citation_publication_date" content="2022-11-07" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +30,16 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="The Digital Botanical Gardens Initiative Consortium" />
   <link rel="canonical" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta property="og:url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta property="twitter:url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/187023a9aa5ed82d1c728e38c854d01bd03c3f70/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/187023a9aa5ed82d1c728e38c854d01bd03c3f70/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/187023a9aa5ed82d1c728e38c854d01bd03c3f70/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a93fe765b1fe041ef4f5033348bc2b4e1be43ceb/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a93fe765b1fe041ef4f5033348bc2b4e1be43ceb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a93fe765b1fe041ef4f5033348bc2b4e1be43ceb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/187023a9aa5ed82d1c728e38c854d01bd03c3f70/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a93fe765b1fe041ef4f5033348bc2b4e1be43ceb/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@187023a](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/187023a9aa5ed82d1c728e38c854d01bd03c3f70)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@a93fe76](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/a93fe765b1fe041ef4f5033348bc2b4e1be43ceb)
 on November 7, 2022.
 </em></small>
 
@@ -75,36 +71,19 @@ on November 7, 2022.
 
 
 
-+ **John Doe**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    <br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
++ **The Digital Botanical Gardens Initiative Consortium**
   ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [digital-botanical-gardens-initiative](https://github.com/digital-botanical-gardens-initiative)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+The Digital Botanical Gardens Initiative Consortium \<\>.
 
 
 :::
