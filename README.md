@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/gh-pages) branch hosts the contents of this directory at <https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/>.
-The permalink for this webpage version is <https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3648723f991e31e32e5a8c5bb1c8afbcdf077187/>.
+The permalink for this webpage version is <https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`3648723f991e31e32e5a8c5bb1c8afbcdf077187`](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/commit/3648723f991e31e32e5a8c5bb1c8afbcdf077187).
+[`00569c7e25e494aad2d419262e6e904cde822812`](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/commit/00569c7e25e494aad2d419262e6e904cde822812).
