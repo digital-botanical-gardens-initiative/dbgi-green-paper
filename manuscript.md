@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/daa9998a6104325dfd982429dd5e977ee3a5be0c/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/daa9998a6104325dfd982429dd5e977ee3a5be0c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/daa9998a6104325dfd982429dd5e977ee3a5be0c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4a9eace12f1a709b51d5d33cb7397611951958f4/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4a9eace12f1a709b51d5d33cb7397611951958f4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4a9eace12f1a709b51d5d33cb7397611951958f4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/daa9998a6104325dfd982429dd5e977ee3a5be0c/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4a9eace12f1a709b51d5d33cb7397611951958f4/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@daa9998](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/daa9998a6104325dfd982429dd5e977ee3a5be0c)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@4a9eace](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/4a9eace12f1a709b51d5d33cb7397611951958f4)
 on November 26, 2022.
 </em></small>
 
@@ -121,8 +121,51 @@ The main goals of the DBGI are resumed in Figure @fig:dbgi-goals Some details ar
 ## Background and context {.page_break_before}
 
 
-Biodiversity is a major determinant of ecosystem stability [1]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [2,3]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [4], about a million species are currently at risk of extinction and may go extinct before the end of the century [5]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction). [6] In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
+Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [@doi:10.1038/news.2011.498], about a million species are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
 Over 3.5 billion years of evolution, natural selection, the craftsman of biodiversity, has created an overwhelming array of molecular entities. Myriad compounds are produced by all living organisms from bacteria to whales, forming the backbone of the ever-growing tree of life. Through the lens of chemistry, every species, biotic interaction, and community, reveals a unique ensemble of molecular structures: the metabolome. These chemical assemblages are a valuable, yet largely unexplored reflection of biodiversity and ecosystem functioning. To go beyond the simple quantitative representation of biodiversity provided by species inventories, and to reinforce our understanding of links between biodiversity and ecosystem functioning, we see chemical diversity as an alternative and highly complementary view of the diversity of our planet’s ecosystems.
+
+
+
+
+## Rationale {.page_break_before}
+
+With these urgent biodiversity characterization objectives in mind we are setting up the Digital Botanical Gardens Initiative (DBGI), which aims to develop robust and scalable workflows for the digitization of botanical gardens using several approaches. The central one being the use of analytical chemistry strategies to build information-rich chemical maps that will guide researchers focusing on biodiversity characterisation and conservation.
+
+
+
+![
+**Characteristics of three main plant biodiversity sources for the scientist.**
+](images/dbgi-lab-botanical-wild.svg "Workflow"){#fig:dbgi-lab-botanical-wild width="100%"}
+
+
+Sampling plants for chemical characterization can be done in three ways, either from natural living collections (botanical gardens), in the wild, or by growing plants in highly controlled settings (See Figure 2. For an overview of the advantages and inconveniences of each biodiversity source). For this first project, the sampling in botanical gardens is the  chosen option, as within a very accessible location, thousands of species, which are already identified, labeled and organized,  can be readily sampled.
+
+
+## Background and context {.page_break_before}
+
+
+Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [@doi:10.1038/news.2011.498], about a million species are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
+Over 3.5 billion years of evolution, natural selection, the craftsman of biodiversity, has created an overwhelming array of molecular entities. Myriad compounds are produced by all living organisms from bacteria to whales, forming the backbone of the ever-growing tree of life. Through the lens of chemistry, every species, biotic interaction, and community, reveals a unique ensemble of molecular structures: the metabolome. These chemical assemblages are a valuable, yet largely unexplored reflection of biodiversity and ecosystem functioning. To go beyond the simple quantitative representation of biodiversity provided by species inventories, and to reinforce our understanding of links between biodiversity and ecosystem functioning, we see chemical diversity as an alternative and highly complementary view of the diversity of our planet’s ecosystems.
+
+
+
+
+## Background and context {.page_break_before}
+
+
+Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [@doi:10.1038/news.2011.498], about a million species are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
+Over 3.5 billion years of evolution, natural selection, the craftsman of biodiversity, has created an overwhelming array of molecular entities. Myriad compounds are produced by all living organisms from bacteria to whales, forming the backbone of the ever-growing tree of life. Through the lens of chemistry, every species, biotic interaction, and community, reveals a unique ensemble of molecular structures: the metabolome. These chemical assemblages are a valuable, yet largely unexplored reflection of biodiversity and ecosystem functioning. To go beyond the simple quantitative representation of biodiversity provided by species inventories, and to reinforce our understanding of links between biodiversity and ecosystem functioning, we see chemical diversity as an alternative and highly complementary view of the diversity of our planet’s ecosystems.
+
+
+
+
+## Background and context {.page_break_before}
+
+
+Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [@doi:10.1038/news.2011.498], about a million species are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
+Over 3.5 billion years of evolution, natural selection, the craftsman of biodiversity, has created an overwhelming array of molecular entities. Myriad compounds are produced by all living organisms from bacteria to whales, forming the backbone of the ever-growing tree of life. Through the lens of chemistry, every species, biotic interaction, and community, reveals a unique ensemble of molecular structures: the metabolome. These chemical assemblages are a valuable, yet largely unexplored reflection of biodiversity and ecosystem functioning. To go beyond the simple quantitative representation of biodiversity provided by species inventories, and to reinforce our understanding of links between biodiversity and ecosystem functioning, we see chemical diversity as an alternative and highly complementary view of the diversity of our planet’s ecosystems.
+
+
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.

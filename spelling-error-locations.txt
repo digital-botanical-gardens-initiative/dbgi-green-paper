@@ -38,6 +38,16 @@ content/02.goals.md:24:chemodiversity
 content/02.goals.md:24:DBGI
 content/03.background-and-context.md:5:biotic
 content/03.background-and-context.md:5:metabolome
+content/04.rationale.md:3:DBGI
+content/04.rationale.md:3:scalable
+content/04.rationale.md:9:dbgi
+content/04.rationale.md:9:dbgi
+content/05.outline-of-the-research.md:5:biotic
+content/05.outline-of-the-research.md:5:metabolome
+content/06.dissemination-of-the-results.md:5:biotic
+content/06.dissemination-of-the-results.md:5:metabolome
+content/07.dbgi-consortium.md:5:biotic
+content/07.dbgi-consortium.md:5:metabolome
 content/89.delete-me.md:44:adipiscing
 content/89.delete-me.md:44:aliqua
 content/89.delete-me.md:44:amet

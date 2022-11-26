@@ -16,7 +16,7 @@ consectetur
 consequat
 culpa
 cupidatat
-DBGI
+dbgi
 deserunt
 Dissco
 dolore
