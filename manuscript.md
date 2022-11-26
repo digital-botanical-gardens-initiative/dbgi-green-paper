@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@28461f4](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/28461f4d9bc0fe5ee79771783b273dcd48cd7462)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@3969717](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/39697179501b7cedd5b00c233c40c46bf92fb023)
 on November 26, 2022.
 </em></small>
 
@@ -155,32 +155,45 @@ The mass-spectrometry digitization then constitutes the core of the chemical inf
 
 ## Dissemination of the results {.page_break_before}
 
-The DBGI conducts this project following the Open Science principles, and by following the Open Notebook Science concept. This approach allows all research artifacts (e.g. research proposals, drafts, ideas, source code, raw and processed data etc.) produced in the frame of the DBGI to be publicly available immediately, from the moment of their production, and not only after peer-reviewed publication.
-To implement the DBGI Open Notebook we employ Dendron, an open-source and lightweight note-taking and knowledge management software. Dendrons are built using an ingenious system of markdown files hierarchically organized based on their filename. This allows for extremely efficient note searching and refactoring of the hierarchies. Dendrons can be conveniently shared across members of the DBGI, versioned via git and automatically published as websites. The DBGI Dendron can be browsed at http://www.dbgi.org/dendron-dbgi/. 
-Regarding raw data sharing, specimen-related information are hosted on the iNaturalist DBGI project  home page and pictures are shared under a permissive CC0 license allowing further reuse in Wikidata for example. Mass spectrometry profiles and metabolite annotation files will be hosted on the MassIVE data platform where they will benefit from a permanent DOI.  
-All the code written in the frame of the DBGI will be publicly shared and versionned through the DBGI Github organization. Ideas, comments and issues will be collected using Github discussions.
+The DBGI conducts this project following the Open Science principles, and by following the [Open Notebook Science](https://en.wikipedia.org/wiki/Open-notebook_science) concepts. This approach allows all research artifacts (e.g. research proposals, drafts, ideas, source code, raw and processed data etc.) produced in the frame of the DBGI to be publicly available immediately, from the moment of their production, and not only after peer-reviewed publication.
+To implement the DBGI Open Notebook we employ [Dendron](https://www.dendron.so/), an open-source and lightweight note-taking and knowledge management software. Dendrons are built using an ingenious system of markdown files hierarchically organized based on their filename. This allows for extremely efficient note searching and refactoring of the hierarchies. Dendrons can be conveniently shared across members of the DBGI, versioned via git and automatically published as websites. The DBGI Dendron can be browsed at <http://www.dbgi.org/dendron-dbgi/>. 
+Regarding raw data sharing, specimen-related information are hosted on the iNaturalist DBGI project  home page and pictures are shared under a permissive CC0 license allowing further reuse in Wikidata for example. Mass spectrometry profiles and metabolite annotation files will be hosted on the [MassIVE data platform](https://massive.ucsd.edu/) where they will benefit from a permanent DOI.  
+All the code written in the frame of the DBGI will be publicly shared and versioned through the [DBGI Github organization](https://github.com/digital-botanical-gardens-initiative). Ideas, comments and issues will be collected using [Github discussions](https://github.com/digital-botanical-gardens-initiative/forum/discussions).
 
 
 
 
 ## DBGI Consortium {.page_break_before}
 
-Note: the DBGI is welcoming any researchers interested to join the initiative. We expect people to participate according to their ressource/time/interest at the level they suit.
-Initiators
-Pierre-Marie Allard (COMMONS Lab, University of Fribourg)
-Emmanuel Defossez (Institute of Biology, University of Neuchâtel & JBN)
-Core team 
-You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below) for the following areas. We need you !
+**Note:** the DBGI is welcoming any researchers interested to join the initiative. We expect people to participate according to their ressource/time/interest at the level they suit.
 
-Sampling & Collections Management
-Metabolomics & Computational Mass Spectrometry
-Linked data & Knowledge management
-Open Science & Dissemination
-Fundamental & Applied Research (from functional ecology to drug discovery)
-Biodiversity Conservation
+### Initiators
+- Pierre-Marie Allard (COMMONS Lab, University of Fribourg)
+- Emmanuel Defossez (Institute of Biology, University of Neuchâtel & JBN)
+
+### Core team 
+
+[
+<i class="fas fa-info-circle fa-lg"></i> **We need you !**<br>
+You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below) for the following areas.
+]{.banner .lightgrey}
+
+
+<i class="fas fa-vials"></i> Sampling & Collections Management
+
+<i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
+
+<i class="fas fa-telescope"></i> Linked data & Knowledge management
+
+<i class="fa-solid fa-lock-open"></i> Open Science & Dissemination
+
+<i class="fa-solid fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
+
+<i class="fa-solid fa-earth-europe"></i> Biodiversity Conservation
 
 
 Collaborators 
+
 You are willing to put your hands in the dirt and concretely contribute to the DBGI under the following areas. We need you ! If you have expert knowledge to share but not that much time see Expert section 
 Sampling & Collections Management
 Edouard Bruelhart (COMMONS Lab, University of Fribourg)

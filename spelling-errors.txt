@@ -84,7 +84,7 @@ Lütcke
 magna
 Mauroux
 Mendes
-Metabolome
+metabolome
 metabolomics
 mollit
 Mulhauser
@@ -119,7 +119,7 @@ Sima
 sint
 SPARQL
 spectrometric
-Spectrometry
+spectrometry
 sunt
 Tarcisio
 taxonomically
@@ -131,5 +131,4 @@ Université
 untargeted
 velit
 veniam
-versionned
 voluptate

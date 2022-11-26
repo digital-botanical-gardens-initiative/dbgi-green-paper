@@ -122,9 +122,9 @@
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -148,9 +148,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/28461f4d9bc0fe5ee79771783b273dcd48cd7462/">permalink</a>)
+(<a href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/28461f4d9bc0fe5ee79771783b273dcd48cd7462">digital-botanical-gardens-initiative/dbgi-green-paper@28461f4</a>
+from <a href="https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/39697179501b7cedd5b00c233c40c46bf92fb023">digital-botanical-gardens-initiative/dbgi-green-paper@3969717</a>
 on November 26, 2022.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -211,25 +211,28 @@ Below, we will briefly outline the research workflow envisioned for the DBGI. Th
 <p><strong><em>Digital objects.</em></strong> For all operations occurring on physical objects (sampling, conservation, extraction), metadata are collected to document the experiment. For each botanical garden, data collection is made at the species level. A species is collected for each garden, curated and taxonomically resolved (using the Open Tree of Life framework) in order to be compared across gardens. The <a href="https://botalista.community/">Botalista</a> platform will also be exploited at this step. For each collected sample, data are acquired at a finer granularity (namely at the specimen level). Here we take advantage of the <a href="https://www.inaturalist.org/">iNaturalist</a> platform and app. Using a smartphone, pictures of the sampled specimen (including eventual label in the botanical gardens, sampled organ and collection label), collector identity, date and geolocation are conveniently captured at the time of the collection. This data is then automatically collected by the <a href="https://www.inaturalist.org/projects/digital-botanical-gardens-initiative">iNaturalist DBGI project</a>. The data of the project can then be programmatically accessed via the <a href="https://www.inaturalist.org/pages/api+reference">iNaturalist API</a>. All species, specimens and experimental metadata will be collected and managed through an SQL database and accessed through a <a href="https://www.nocodb.com/">NocoDB</a> instance for a convenient tracking of the samples by the DBGI participants.</p>
 <p>The mass-spectrometry digitization then constitutes the core of the chemical information acquisition process. We use Ultra High Performance Liquid Chromatography coupled to High Resolution Mass Spectrometry (UHPLC-HRMS) to acquire fragmentation data in an untargeted fashion. Building on our computational metabolomics expertise we then organize and annotate the acquired pool of MS data. Here we will take advantage of five central tools (four of which were conceived by us). Molecular networking <span class="citation" data-cites="dradflfa">[<a href="#ref-dradflfa" role="doc-biblioref">7</a>]</span> will serve as a basis for spectral organization. The metabolite annotation will be performed by spectral matching against a theoretical natural products spectral database <span class="citation" data-cites="Y25XY9UD">[<a href="#ref-Y25XY9UD" role="doc-biblioref">8</a>]</span> and via a taxonomically informed scoring process <span class="citation" data-cites="1EaGvQl0B">[<a href="#ref-1EaGvQl0B" role="doc-biblioref">9</a>]</span> fed by the widest open resource of natural products biological occurrences (<a href="https://www.wikidata.org/wiki/Wikidata:WikiProject_Chemistry/Natural_products">LOTUS</a> <span class="citation" data-cites="PYbwVCJ0">[<a href="#ref-PYbwVCJ0" role="doc-biblioref">10</a>]</span>).</p>
 <h2 class="page_break_before" id="dissemination-of-the-results">Dissemination of the results</h2>
-<p>The DBGI conducts this project following the Open Science principles, and by following the Open Notebook Science concept. This approach allows all research artifacts (e.g. research proposals, drafts, ideas, source code, raw and processed data etc.) produced in the frame of the DBGI to be publicly available immediately, from the moment of their production, and not only after peer-reviewed publication.
-To implement the DBGI Open Notebook we employ Dendron, an open-source and lightweight note-taking and knowledge management software. Dendrons are built using an ingenious system of markdown files hierarchically organized based on their filename. This allows for extremely efficient note searching and refactoring of the hierarchies. Dendrons can be conveniently shared across members of the DBGI, versioned via git and automatically published as websites. The DBGI Dendron can be browsed at http://www.dbgi.org/dendron-dbgi/.
-Regarding raw data sharing, specimen-related information are hosted on the iNaturalist DBGI project home page and pictures are shared under a permissive CC0 license allowing further reuse in Wikidata for example. Mass spectrometry profiles and metabolite annotation files will be hosted on the MassIVE data platform where they will benefit from a permanent DOI.<br />
-All the code written in the frame of the DBGI will be publicly shared and versionned through the DBGI Github organization. Ideas, comments and issues will be collected using Github discussions.</p>
+<p>The DBGI conducts this project following the Open Science principles, and by following the <a href="https://en.wikipedia.org/wiki/Open-notebook_science">Open Notebook Science</a> concepts. This approach allows all research artifacts (e.g. research proposals, drafts, ideas, source code, raw and processed data etc.) produced in the frame of the DBGI to be publicly available immediately, from the moment of their production, and not only after peer-reviewed publication.
+To implement the DBGI Open Notebook we employ <a href="https://www.dendron.so/">Dendron</a>, an open-source and lightweight note-taking and knowledge management software. Dendrons are built using an ingenious system of markdown files hierarchically organized based on their filename. This allows for extremely efficient note searching and refactoring of the hierarchies. Dendrons can be conveniently shared across members of the DBGI, versioned via git and automatically published as websites. The DBGI Dendron can be browsed at <a href="http://www.dbgi.org/dendron-dbgi/" class="uri">http://www.dbgi.org/dendron-dbgi/</a>.
+Regarding raw data sharing, specimen-related information are hosted on the iNaturalist DBGI project home page and pictures are shared under a permissive CC0 license allowing further reuse in Wikidata for example. Mass spectrometry profiles and metabolite annotation files will be hosted on the <a href="https://massive.ucsd.edu/">MassIVE data platform</a> where they will benefit from a permanent DOI.<br />
+All the code written in the frame of the DBGI will be publicly shared and versioned through the <a href="https://github.com/digital-botanical-gardens-initiative">DBGI Github organization</a>. Ideas, comments and issues will be collected using <a href="https://github.com/digital-botanical-gardens-initiative/forum/discussions">Github discussions</a>.</p>
 <h2 class="page_break_before" id="dbgi-consortium">DBGI Consortium</h2>
-<p>Note: the DBGI is welcoming any researchers interested to join the initiative. We expect people to participate according to their ressource/time/interest at the level they suit.
-Initiators
-Pierre-Marie Allard (COMMONS Lab, University of Fribourg)
-Emmanuel Defossez (Institute of Biology, University of Neuchâtel &amp; JBN)
-Core team
-You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below) for the following areas. We need you !</p>
-<p>Sampling &amp; Collections Management
-Metabolomics &amp; Computational Mass Spectrometry
-Linked data &amp; Knowledge management
-Open Science &amp; Dissemination
-Fundamental &amp; Applied Research (from functional ecology to drug discovery)
-Biodiversity Conservation</p>
-<p>Collaborators
-You are willing to put your hands in the dirt and concretely contribute to the DBGI under the following areas. We need you ! If you have expert knowledge to share but not that much time see Expert section
+<p><strong>Note:</strong> the DBGI is welcoming any researchers interested to join the initiative. We expect people to participate according to their ressource/time/interest at the level they suit.</p>
+<h3 id="initiators">Initiators</h3>
+<ul>
+<li>Pierre-Marie Allard (COMMONS Lab, University of Fribourg)</li>
+<li>Emmanuel Defossez (Institute of Biology, University of Neuchâtel &amp; JBN)</li>
+</ul>
+<h3 id="core-team">Core team</h3>
+<p><span class="banner lightgrey"><i class="fas fa-info-circle fa-lg"></i> <strong>We need you !</strong><br>
+You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below) for the following areas.</span></p>
+<p><i class="fas fa-vials"></i> Sampling &amp; Collections Management</p>
+<p><i class="fas fa-microscope"></i> Metabolomics &amp; Computational Mass Spectrometry</p>
+<p><i class="fas fa-telescope"></i> Linked data &amp; Knowledge management</p>
+<p><i class="fa-solid fa-lock-open"></i> Open Science &amp; Dissemination</p>
+<p><i class="fa-solid fa-capsules"></i> Fundamental &amp; Applied Research (from functional ecology to drug discovery)</p>
+<p><i class="fa-solid fa-earth-europe"></i> Biodiversity Conservation</p>
+<p>Collaborators</p>
+<p>You are willing to put your hands in the dirt and concretely contribute to the DBGI under the following areas. We need you ! If you have expert knowledge to share but not that much time see Expert section
 Sampling &amp; Collections Management
 Edouard Bruelhart (COMMONS Lab, University of Fribourg)
 Gregor Kozlowski (JBUF)
@@ -531,7 +534,7 @@ White background specified to serve as a backdrop for transparent sections of th
 </tbody>
 </table>
 </div>
-<div id="tbl:0f97759c-3537-4778-b7d3-6e91c3dbe15f" class="tablenos">
+<div id="tbl:33c15907-9ba3-422c-90c7-bd8ea1e61cfc" class="tablenos">
 <table id="tbl:">
 <caption><span>Table 3:</span> A table with merged cells using the <code>attributes</code> plugin.
 </caption>
