@@ -19,8 +19,11 @@ content/02.goals.md:14:phenology
 content/02.goals.md:14:RDF
 content/02.goals.md:16:bicikl
 content/02.goals.md:16:BiCIKL
+content/02.goals.md:16:chebi
+content/02.goals.md:16:CHEBI
 content/02.goals.md:16:dissco
 content/02.goals.md:16:Dissco
+content/02.goals.md:16:ontologies
 content/02.goals.md:16:ontologies
 content/02.goals.md:16:ontologies
 content/02.goals.md:16:pre
@@ -33,6 +36,7 @@ content/02.goals.md:20:DBGI
 content/02.goals.md:20:pre
 content/02.goals.md:22:chemodiversity
 content/02.goals.md:22:DBGI
+content/02.goals.md:22:Metabolome
 content/02.goals.md:22:scalable
 content/02.goals.md:24:chemodiversity
 content/02.goals.md:24:DBGI

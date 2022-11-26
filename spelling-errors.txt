@@ -21,6 +21,7 @@ Botalista
 Botanique
 Bruelhart
 Caterina
+CHEBI
 chemodiversity
 Christophe
 cillum
@@ -85,7 +86,7 @@ Lütcke
 magna
 Mauroux
 Mendes
-metabolome
+Metabolome
 Metabolomics
 mollit
 Mulhauser

@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f5ba3bcbe92a52a50205889c9667e2482d4b6412/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f5ba3bcbe92a52a50205889c9667e2482d4b6412/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f5ba3bcbe92a52a50205889c9667e2482d4b6412/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f5ba3bcbe92a52a50205889c9667e2482d4b6412/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@00569c7](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/00569c7e25e494aad2d419262e6e904cde822812)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@f5ba3bc](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/f5ba3bcbe92a52a50205889c9667e2482d4b6412)
 on November 26, 2022.
 </em></small>
 
@@ -108,15 +108,15 @@ The main goals of the DBGI are resumed in Figure @fig:dbgi-goals Some details ar
 
 **3. Gather chemical information and relevant samples metadata in a tailored knowledge graph.** Chemical information acquired at the previous step (spectra and chemical structures) are connected to relevant samples metadata (taxonomy, phenology, geolocalisation, time of collection etc.). For this semantic web technologies (namely the RDF data model) are employed and a tailored knowledge graph is established.
 
-**4. Connect to existing ontologies (bio, chemo) and biodiversity digitization projects.** Chemical and biological objects of the graph are connected to relevant pre-established ontologies (e.g. CHEBI, Plants Ontology) and data graphs (e.g. Wikidata). Connection with complementary biodiversity digitization efforts will be done (e.g BiCIKL https://bicikl-project.eu/, Dissco https://www.dissco.eu/ )
+**4. Connect to existing ontologies (bio, chemo) and biodiversity digitization projects.** Chemical and biological objects of the graph are connected to relevant pre-established ontologies (e.g. [CHEBI](https://www.ebi.ac.uk/chebi/), [Plants Ontology](https://bioportal.bioontology.org/ontologies/PO)) and data graphs (e.g. [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)). Connection with complementary biodiversity digitization efforts will be done (e.g [BiCIKL](https://bicikl-project.eu/), [Dissco](https://www.dissco.eu/))
 
 **5. Establish web and programmatic interfaces for the query of the acquired knowledge.** A web interface will allow a convenient access to the data acquired within the framework of the project. A dashboard will allow simple visualizations (e.g pie charts, barplots, treemap) to interpret the data. In addition a SPARQL endpoint and an application programming interface (API) will allow retrieval of data programmatically.
 
-**6. Illustrate the feasibility and advantages of an end-to-end Open Science project.** The DBGI will strictly follow the Open Science guidelines by using open-source software and making available the acquired data and scripts under an open license agreement. In addition the DBGI results will be published at the moment they are acquired (previous to formal publication or even pre-prints) thus following the Open Notebook Science concepts. 
+**6. Illustrate the feasibility and advantages of an end-to-end Open Science project.** The DBGI will strictly follow the [Open Science](https://en.wikipedia.org/wiki/Open_science) guidelines by using open-source software and making available the acquired data and scripts under an open license agreement. In addition the DBGI results will be published at the moment they are acquired (previous to formal publication or even pre-prints) thus following the [Open Notebook Science](https://en.wikipedia.org/wiki/Open-notebook_science) concepts. 
 
-**7. Establish robust and scalable workflows for the digitization of wild ecosystems biodiversity.** The DBGI, albeit ambitious, is a pilot project. The future objective is to propose digitization workflows for the characterization of the wild ecosystems chemodiversity, on a global scale.
+**7. Establish robust and scalable workflows for the digitization of wild ecosystems biodiversity.** The DBGI, albeit ambitious, is a pilot project. The future objective is to propose digitization workflows for the characterization of the wild ecosystems chemodiversity, on a global scale. These workflow will be central to the future Earth Metabolome Initiative.
 
-**8. Provide "molecular arguments" for biodiversity conservation policies.** The ultimate goal of DBGI is to use all the gathered metabolic information to support, extend or implement conservation efforts worldwide. We believe that by providing chemical maps of the landscape it will be possible to contribute to the prioritization of conservation and restoration targets . In other words, by establishing large scale chemical maps we expect to provide “molecular arguments” to biodiversity conservation endeavors (e.g. “This piece of land has a high content of antibacterial scaffolds.” or “This place might be poor in species diversity but rich in a rare chemodiversity”.)
+**8. Provide "molecular arguments" for biodiversity conservation policies.** The ultimate goal of DBGI is to use all the gathered metabolic information to support, extend or implement conservation efforts worldwide. We believe that by providing chemical maps of the landscape it will be possible to contribute to the prioritization of conservation and restoration targets . In other words, by establishing large scale chemical maps we expect to provide “molecular arguments” to biodiversity conservation endeavors (e.g. _“This piece of land has a high content of antibacterial scaffolds.”_ or _“This place might be poor in species diversity but rich in a rare chemodiversity”_.)
 
 ## Background and context {.page_break_before}
 
