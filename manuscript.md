@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3648723f991e31e32e5a8c5bb1c8afbcdf077187/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3648723f991e31e32e5a8c5bb1c8afbcdf077187/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3648723f991e31e32e5a8c5bb1c8afbcdf077187/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3648723f991e31e32e5a8c5bb1c8afbcdf077187/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/00569c7e25e494aad2d419262e6e904cde822812/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@3648723](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/3648723f991e31e32e5a8c5bb1c8afbcdf077187)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@00569c7](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/00569c7e25e494aad2d419262e6e904cde822812)
 on November 26, 2022.
 </em></small>
 
@@ -135,7 +135,6 @@ With these urgent biodiversity characterization objectives in mind we are settin
 **Characteristics of three main plant biodiversity sources for the scientist.**
 ](images/dbgi-lab-botanical-wild.svg "Workflow"){#fig:dbgi-lab-botanical-wild width="60%"}
 
-
 Sampling plants for chemical characterization can be done in three ways, either from natural living collections (botanical gardens), in the wild, or by growing plants in highly controlled settings (See Figure @fig:dbgi-lab-botanical-wild for an overview of the advantages and inconveniences of each biodiversity source). For this first project, the sampling in botanical gardens is the  chosen option, as within a very accessible location, thousands of species, which are already identified, labeled and organized,  can be readily sampled.
 
 
@@ -145,33 +144,124 @@ The aim of the DGBI is to characterize the chemodiversity of the all botanical g
 Below, we will briefly outline the research workflow envisioned for the DBGI. The main steps have been schematized in Figure 3. The overall workflow can be divided into two main parts: one dealing with physical objects (upper part of Figure 3) and a second one dealing with data and metadata acquired from these objects (lower part of Figure 3). 
 Physical objects. Starting from a botanical garden (a living specimens collection), the aim is to sample each specimen and to build two libraries: a library of dried plant material and a library of chemical extracts. The dried plant material library will serve as a backup for extractions to be repeated, further characterization of compounds, or for orthogonal analysis (e.g. genetic sequencing). The chemical extracts library will be the source material for the mass-spectrometry digitization stage. This library will also be available for backups and orthogonal analysis (e.g. NMR profiling or bioassay campaigns). Complementary to herbarium, these two libraries offer an efficient way (reduced space, long term storage) to capture and conserve the chemistry of the botanical gardens.
 
-
-
 ![
 **Data types and fluxes in the DBGI.**
 ](images/dbgi-general-workflow.svg "Workflow"){#fig:dbgi-general-workflow width="100%"}
 
-
-
 Digital objects. For all operations occurring on physical objects (sampling, conservation, extraction), metadata are collected to document the experiment. For each botanical garden, data collection is made at the species level. A species is collected for each garden, curated and taxonomically resolved (using the Open Tree of Life framework) in order to be compared across gardens. The Botalista platform will also be exploited at this step. For each collected sample, data are acquired at a finer granularity (namely at the specimen level). Here we take advantage of the iNaturalist platform and app. Using a smartphone, pictures of the sampled specimen (including eventual label in the botanical gardens, sampled organ and collection label), collector identity, date and geolocation are conveniently captured at the time of the collection. This data is then automatically collected by the iNaturalist DBGI project. The data of the project can then be programmatically accessed via the iNaturalist API. All species, specimens and experimental metadata will be collected and managed through an SQL database and accessed through a NocoDB instance for a convenient tracking of the samples by the DBGI participants.
 The mass-spectrometry digitization then constitutes the core of the chemical information acquisition process. We use Ultra High Performance Liquid Chromatography coupled to High Resolution Mass Spectrometry (UHPLC-HRMS) to acquire fragmentation data in an untargeted fashion. Building on our computational metabolomics expertise we then organize and annotate the acquired pool of MS data. Here we will take advantage of five central tools (four of which were conceived by us). Molecular networking [7] will serve as a basis for spectral organization. The metabolite annotation will be performed by spectral matching against a theoretical natural products spectral database [8] and via a taxonomically informed scoring process [9] fed by an open resource of natural products biological occurrences (LOTUS [10]).
 
-## Background and context {.page_break_before}
+## Dissemination of the results {.page_break_before}
+
+The DBGI conducts this project following the Open Science principles, and by following the Open Notebook Science concept. This approach allows all research artifacts (e.g. research proposals, drafts, ideas, source code, raw and processed data etc.) produced in the frame of the DBGI to be publicly available immediately, from the moment of their production, and not only after peer-reviewed publication.
+To implement the DBGI Open Notebook we employ Dendron, an open-source and lightweight note-taking and knowledge management software. Dendrons are built using an ingenious system of markdown files hierarchically organized based on their filename. This allows for extremely efficient note searching and refactoring of the hierarchies. Dendrons can be conveniently shared across members of the DBGI, versioned via git and automatically published as websites. The DBGI Dendron can be browsed at http://www.dbgi.org/dendron-dbgi/. 
+Regarding raw data sharing, specimen-related information are hosted on the iNaturalist DBGI project  home page and pictures are shared under a permissive CC0 license allowing further reuse in Wikidata for example. Mass spectrometry profiles and metabolite annotation files will be hosted on the MassIVE data platform where they will benefit from a permanent DOI.  
+All the code written in the frame of the DBGI will be publicly shared and versionned through the DBGI Github organization. Ideas, comments and issues will be collected using Github discussions.
 
 
-Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [@doi:10.1038/news.2011.498], about a million species are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
-Over 3.5 billion years of evolution, natural selection, the craftsman of biodiversity, has created an overwhelming array of molecular entities. Myriad compounds are produced by all living organisms from bacteria to whales, forming the backbone of the ever-growing tree of life. Through the lens of chemistry, every species, biotic interaction, and community, reveals a unique ensemble of molecular structures: the metabolome. These chemical assemblages are a valuable, yet largely unexplored reflection of biodiversity and ecosystem functioning. To go beyond the simple quantitative representation of biodiversity provided by species inventories, and to reinforce our understanding of links between biodiversity and ecosystem functioning, we see chemical diversity as an alternative and highly complementary view of the diversity of our planet’s ecosystems.
 
 
+## DBGI Consortium {.page_break_before}
+
+Note: the DBGI is welcoming any researchers interested to join the initiative. We expect people to participate according to their ressource/time/interest at the level they suit.
+Initiators
+Pierre-Marie Allard (COMMONS Lab, University of Fribourg)
+Emmanuel Defossez (Institute of Biology, University of Neuchâtel & JBN)
+Core team 
+You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below) for the following areas. We need you !
+
+Sampling & Collections Management
+Metabolomics & Computational Mass Spectrometry
+Linked data & Knowledge management
+Open Science & Dissemination
+Fundamental & Applied Research (from functional ecology to drug discovery)
+Biodiversity Conservation
 
 
-## Background and context {.page_break_before}
+Collaborators 
+You are willing to put your hands in the dirt and concretely contribute to the DBGI under the following areas. We need you ! If you have expert knowledge to share but not that much time see Expert section 
+Sampling & Collections Management
+Edouard Bruelhart (COMMONS Lab, University of Fribourg)
+Gregor Kozlowski (JBUF)
+??? (to be contacted) Blaise Mulhauser (JBN)
+Nadir Alvarez (Université de Genève)
+Donat Agosti (Plazi)
+Cyril Boillat (Botalista)
+??? (to be contacted) Laurent Kneubuhl (Botalista)
+??? (to be contacted) Brian Sedio (University of Texas at Austin)
+Metabolomics & Computational Mass Spectrometry
+Ming Wang (University of Riverside)
+??? (to be contacted) Gaétan Glauser (University of Neuchâtel)
+??? (to be contacted) Brian Sedio (University of Texas at Austin)
+Linked data & Knowledge management 
+??? (to be contacted) Philippe Cudré-Mauroux (University of Fribourg)
+Christophe Dessimoz (University of Lausanne)
+Donat Agosti (Plazi)
+Cyril Boillat (Botalista)
+??? (to be contacted) Laurent Kneubuhl (Botalista)
+??? (to be contacted) Jakub Galgonek (Elixir Prague)
+??? (to be contacted) Marco Pagni (SIB)
+Tarcisio Mendes (SIB)
+Ana-Claudia Sima (SIB)
+Open Science & Dissemination
+Christophe Dessimoz (University of Lausanne)
+Donat Agosti (Plazi)
+Henry Lütcke (ETHZ)
+Bernd Rinn (ETHZ)
+Caterina Barillari (ETHZ)
+Fundamental & Applied Research (from functional ecology to drug discovery)
+Sergio Rassmann (University of Neuchâtel)
+Thomas Walker (University of Neuchâtel)
+??? (to be contacted) Patrice Descombes (University of Lausanne)
+??? (to be contacted) Nadir Alvarez (Université de Genève)
+??? (to be contacted) Brian Sedio (University of Texas at Austin)
+Biodiversity Conservation
+Gregor Kozlowski (JBUF)
+??? (to be contacted) Patrice Descombes (University of Lausanne)
+Experts
+You have expertise in the following areas and you are OK that we pick your brain for let’s say … a one hour meeting each month.
+Sampling & Collections Management
+Gregor Kozlowski (JBUF)
+??? (to be contacted) Blaise Mulhauser (JBN)
+Nadir Alvarez (Université de Genève)
+Donat Agosti (Plazi)
+Cyril Boillat (Botalista)
+??? (to be contacted) Laurent Kneubuhl (Botalista)
+Metabolomics & Computational Mass Spectrometry
+Ming Wang (University of Riverside)
+??? (to be contacted) Gaétan Glauser (University of Neuchâtel)
+??? (to be contacted) Brian Sedio (University of Texas at Austin)
+Linked data & Knowledge management 
+??? (to be contacted) Philippe Cudré-Mauroux (University of Fribourg)
+Christophe Dessimoz (University of Lausanne)
+Donat Agosti (Plazi)
+Cyril Boillat (Botalista)
+??? (to be contacted) Laurent Kneubuhl (Botalista)
+??? (to be contacted) Jakub Galgonek (Elixir Prague)
+??? (to be contacted) Marco Pagni (SIB)
+Tarcisio Mendes (SIB)
+Ana-Claudia Sima (SIB)
+Open Science & Dissemination
+Christophe Dessimoz (University of Lausanne)
+Donat Agosti (Plazi)
+Henry Lütcke (ETHZ)
+Bernd Rinn (ETHZ)
+Caterina Barillari (ETHZ)
+Fundamental & Applied Research (from functional ecology to drug discovery)
+Sergio Rassmann (University of Neuchâtel)
+Thomas Walker (University of Neuchâtel)
+??? (to be contacted) Patrice Descombes (University of Lausanne)
+??? (to be contacted) Nadir Alvarez (Université de Genève)
+??? (to be contacted) Brian Sedio (University of Texas at Austin)
 
-
-Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [@doi:10.1038/news.2011.498], about a million species are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
-Over 3.5 billion years of evolution, natural selection, the craftsman of biodiversity, has created an overwhelming array of molecular entities. Myriad compounds are produced by all living organisms from bacteria to whales, forming the backbone of the ever-growing tree of life. Through the lens of chemistry, every species, biotic interaction, and community, reveals a unique ensemble of molecular structures: the metabolome. These chemical assemblages are a valuable, yet largely unexplored reflection of biodiversity and ecosystem functioning. To go beyond the simple quantitative representation of biodiversity provided by species inventories, and to reinforce our understanding of links between biodiversity and ecosystem functioning, we see chemical diversity as an alternative and highly complementary view of the diversity of our planet’s ecosystems.
-
-
+Biodiversity Conservation
+Gregor Kozlowski (JBUF)
+??? (to be contacted) Patrice Descombes (University of Lausanne)
+Botanical Gardens
+Jardin Botanique de l’Université de Fribourg (JBUF)
+Jardin Botanique de Neuchatel (JBN)
+??? Conservatoire et Jardins Botanique de Genève (CJBG)
+??? Jardin Botanique de Lausanne (JBL)
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
