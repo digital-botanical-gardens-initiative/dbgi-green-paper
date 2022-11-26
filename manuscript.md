@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39dbd6e89e3e1b1555634119489a3d9c4bf0b3d8/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39dbd6e89e3e1b1555634119489a3d9c4bf0b3d8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39dbd6e89e3e1b1555634119489a3d9c4bf0b3d8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39697179501b7cedd5b00c233c40c46bf92fb023/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/39dbd6e89e3e1b1555634119489a3d9c4bf0b3d8/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@3969717](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/39697179501b7cedd5b00c233c40c46bf92fb023)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@39dbd6e](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/39dbd6e89e3e1b1555634119489a3d9c4bf0b3d8)
 on November 26, 2022.
 </em></small>
 
@@ -185,11 +185,11 @@ You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a y
 
 <i class="fas fa-telescope"></i> Linked data & Knowledge management
 
-<i class="fa-solid fa-lock-open"></i> Open Science & Dissemination
+<i class="fas fa-lock-open"></i> Open Science & Dissemination
 
-<i class="fa-solid fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
+<i class="fas fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
 
-<i class="fa-solid fa-earth-europe"></i> Biodiversity Conservation
+<i class="fas fa-earth-europe"></i> Biodiversity Conservation
 
 
 Collaborators 
