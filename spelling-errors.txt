@@ -12,7 +12,6 @@ Barillari
 barplots
 Bernd
 BiCIKL
-bioassay
 bioassays
 biotic
 Blaise
@@ -32,14 +31,13 @@ consequat
 Cudré
 culpa
 cupidatat
-dbgi
+DBGI
 Defossez
 Dendron
 Dendrons
 Descombes
 deserunt
 Dessimoz
-DGBI
 Dissco
 dolore
 Donat
@@ -49,7 +47,7 @@ eiusmod
 elit
 enim
 esse
-ethnomedical
+ethnomedicinal
 ETHZ
 Excepteur
 exercitation
@@ -87,7 +85,7 @@ magna
 Mauroux
 Mendes
 Metabolome
-Metabolomics
+metabolomics
 mollit
 Mulhauser
 Neuchatel
@@ -121,7 +119,7 @@ Sima
 sint
 SPARQL
 spectrometric
-spectrometry
+Spectrometry
 sunt
 Tarcisio
 taxonomically
