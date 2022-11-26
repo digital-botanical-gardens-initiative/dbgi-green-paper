@@ -36,6 +36,8 @@ content/02.goals.md:22:DBGI
 content/02.goals.md:22:scalable
 content/02.goals.md:24:chemodiversity
 content/02.goals.md:24:DBGI
+content/03.background-and-context.md:5:biotic
+content/03.background-and-context.md:5:metabolome
 content/89.delete-me.md:44:adipiscing
 content/89.delete-me.md:44:aliqua
 content/89.delete-me.md:44:amet
