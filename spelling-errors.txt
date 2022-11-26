@@ -85,7 +85,7 @@ magna
 Mauroux
 Mendes
 Metabolome
-Metabolomics
+metabolomics
 mollit
 Mulhauser
 Neuchatel

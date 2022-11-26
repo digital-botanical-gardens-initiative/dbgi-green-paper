@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c4052bd29033e61b1d51851a85a3b3cf4d17fc2a/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c4052bd29033e61b1d51851a85a3b3cf4d17fc2a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c4052bd29033e61b1d51851a85a3b3cf4d17fc2a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c4052bd29033e61b1d51851a85a3b3cf4d17fc2a/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@c4052bd](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/c4052bd29033e61b1d51851a85a3b3cf4d17fc2a)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@2b7786f](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/2b7786f5d285dfcf9e53a190c89095c6969bd624)
 on November 26, 2022.
 </em></small>
 
@@ -98,7 +98,7 @@ The Digital Botanical Gardens Initiative (DBGI) ambitions to explore innovative 
 
 ![
 **Main goals of the Digital Botanical Gardens Initiative.**
-](images/dbgi-goals.svg "Workflow"){#fig:dbgi-goals width="100%"}
+](images/dbgi-goals.svg "Workflow"){#fig:dbgi-goals width="60%"}
 
 The main goals of the DBGI are resumed in Figure @fig:dbgi-goals Some details are given hereafter:
 
@@ -173,6 +173,10 @@ All the code written in the frame of the DBGI will be publicly shared and versio
 
 ### Core team 
 
+<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
+
+
 [
 <i class="fas fa-info-circle fa-lg"></i> **We need you !**<br>
 You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below) for the following areas.
@@ -183,7 +187,9 @@ You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a y
 
 <i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
 
-<i class="fas fa-telescope"></i> Linked data & Knowledge management
+<i class="fa-solid fa-diagram-project"></i> Linked data & Knowledge management
+
+<i class="fas fa-diagram-project"></i>
 
 <i class="fas fa-lock-open"></i> Open Science & Dissemination
 
@@ -191,6 +197,11 @@ You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a y
 
 <i class="fas fa-earth-europe"></i> Biodiversity Conservation
 
+<i class="fa-solid fa-earth-europe"></i>
+
+<i class="fa-solid fa-chart-network"></i>
+
+<i class="fas fa-chart-network"></i>
 
 Collaborators 
 
@@ -555,7 +566,7 @@ Available background colors for text, images, code, banners, etc:
 Using the [Font Awesome](https://fontawesome.com/) icon set:
 
 <!-- include the Font Awesome library, per: https://fontawesome.com/start -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
 
 <i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
 
