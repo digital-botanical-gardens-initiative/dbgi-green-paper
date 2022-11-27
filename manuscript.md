@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/ae7d66459a8b22adc64214638929dc8572bd465d/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/ae7d66459a8b22adc64214638929dc8572bd465d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/ae7d66459a8b22adc64214638929dc8572bd465d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/ae7d66459a8b22adc64214638929dc8572bd465d/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@ae7d664](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/ae7d66459a8b22adc64214638929dc8572bd465d)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@c310aac](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/c310aac888d6834ffdd0865a0903019960ee1ee7)
 on November 27, 2022.
 </em></small>
 
@@ -172,7 +172,7 @@ All the code written in the frame of the DBGI will be publicly shared and versio
 - Pierre-Marie Allard ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
 - Emmanuel Defossez (Institute of Biology, University of Neuchâtel & JBN)
 
-### Core team 
+### Core team
 
 <!-- include the Font Awesome library, per: https://fontawesome.com/start -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
@@ -182,40 +182,17 @@ All the code written in the frame of the DBGI will be publicly shared and versio
 You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below). Join us in one of the following areas. We need you !
 ]{.banner .lightgrey}
 
+#### <i class="fas fa-vials"></i> Sampling & Collections Management
 
-<i class="fas fa-vials"></i> Sampling & Collections Management
+#### <i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
 
--
--
+#### <i class="fa-solid fa-diagram-project"></i> Linked data & Knowledge management
 
-<i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
+#### <i class="fas fa-lock-open"></i> Open Science & Dissemination
 
--
--
+#### <i class="fas fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
 
-
-<i class="fa-solid fa-diagram-project"></i> Linked data & Knowledge management
-
--
--
-
-
-<i class="fas fa-lock-open"></i> Open Science & Dissemination
-
--
--
-
-
-<i class="fas fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
-
--
--
-
-<i class="fas fa-earth-europe"></i> Biodiversity Conservation
-
--
--
-
+#### <i class="fas fa-earth-europe"></i> Biodiversity Conservation
 
 ### Collaborators 
 
@@ -225,65 +202,39 @@ You are willing to put your hands in the dirt and concretely contribute to the D
 ]{.banner .lightgrey}
 
 
-#### Sampling & Collections Management
+#### <i class="fas fa-vials"></i> Sampling & Collections Management
 
 - Edouard Bruelhart ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
 
-##### Metabolomics & Computational Mass Spectrometry
+#### <i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
 
--
-##### Linked data & Knowledge management 
+#### <i class="fa-solid fa-diagram-project"></i> Linked data & Knowledge management
 
 - Maëlle Wannier ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
--
-##### Open Science & Dissemination
 
--
--
-##### Fundamental & Applied Research (from functional ecology to drug discovery)
--
--
+#### <i class="fas fa-lock-open"></i> Open Science & Dissemination
+#### <i class="fas fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
 
-##### Biodiversity Conservation
-- 
--
+#### <i class="fas fa-earth-europe"></i> Biodiversity Conservation
 
-
-#### Experts
+### Experts
 
 [
 <i class="fa-solid fa-arrow-right-to-bracket"></i> **Share your expertise !**<br>
 You have expertise in one or several of the following areas and you are OK that we pick your brain for let’s say … a one hour meeting once every two month.
 ]{.banner .lightgrey}
 
-##### Sampling & Collections Management
+#### <i class="fas fa-vials"></i> Sampling & Collections Management
 
-- 
--
+#### <i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
 
-##### Metabolomics & Computational Mass Spectrometry
+#### <i class="fa-solid fa-diagram-project"></i> Linked data & Knowledge management
 
-- 
+#### <i class="fas fa-lock-open"></i> Open Science & Dissemination
 
-##### Linked data & Knowledge management 
+#### <i class="fas fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
 
-- 
--
-
-##### Open Science & Dissemination
-
-- 
--
-
-##### Fundamental & Applied Research (from functional ecology to drug discovery)
-
-- 
--
-
-
-##### Biodiversity Conservation
-
-- 
+#### <i class="fas fa-earth-europe"></i> Biodiversity Conservation
 
 
 
@@ -294,12 +245,10 @@ You have expertise in one or several of the following areas and you are OK that 
 - ??? Conservatoire et Jardins Botanique de Genève (CJBG)
 - ??? Jardin Botanique de Lausanne (JBL)
 
-
-
 #### Contacts 
 
 [
-<i class="fa-solid fa-address-book"></i> Contacts list**<br>
+<i class="fa-solid fa-address-book"></i> ** Contacts list**<br>
 
 Here is the DBGI address book.
 <i class="fa-regular fa-square-check"></i> Have been contacted, informed of the DBGI and expressed interest to be part in one of the above sections.
