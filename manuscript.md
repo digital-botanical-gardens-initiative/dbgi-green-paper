@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e633e07363db98dd01c24fa1f355f3e64950a731/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e633e07363db98dd01c24fa1f355f3e64950a731/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e633e07363db98dd01c24fa1f355f3e64950a731/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e633e07363db98dd01c24fa1f355f3e64950a731/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@e633e07](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/e633e07363db98dd01c24fa1f355f3e64950a731)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@b6d3d9b](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242)
 on November 27, 2022.
 </em></small>
 
@@ -291,7 +291,9 @@ Here is the DBGI address book.
 - <i class="fa-regular fa-square-check"></i> Cyril Boillat (Botalista)
 - <i class="fa-regular fa-square-check"></i> Edouard Bruelhart ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
 - <i class="fa-regular fa-square-check"></i> Rodrigo Camara Leret (ETHZ)
+- <i class="fa-regular fa-square"></i> Hicham Chahtane (Pierre Fabre Laboratories)
 - <i class="fa-regular fa-square"></i> Philippe Cudré-Mauroux (University of Fribourg)
+- <i class="fa-regular fa-square"></i> Bruno David
 - <i class="fa-regular fa-square"></i> Patrice Descombes (University of Lausanne)
 - <i class="fa-regular fa-square-check"></i> Christophe Dessimoz (University of Lausanne)
 - <i class="fa-regular fa-square"></i> Jakub Galgonek (Elixir Prague)

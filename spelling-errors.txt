@@ -15,12 +15,13 @@ Botanique
 Bruelhart
 Camara
 Caterina
+Chahtane
 CHEBI
 chemodiversity
 Christophe
 CJBG
 Cudré
-DBGI
+dbgi
 Defossez
 Dendron
 Dendrons
@@ -33,6 +34,7 @@ Egon
 ethnomedicinal
 ETHZ
 expertises
+Fabre
 Fribourg
 Gaétan
 Galgonek
@@ -42,6 +44,7 @@ geolocation
 Glauser
 Gregor
 herbarium
+Hicham
 HRMS
 iNaturalist
 Jakub
