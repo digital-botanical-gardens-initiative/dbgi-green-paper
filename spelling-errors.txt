@@ -28,6 +28,7 @@ Dessimoz
 Dissco
 Donat
 Edouard
+Egon
 ethnomedicinal
 ETHZ
 expertises
@@ -56,8 +57,9 @@ Lütcke
 Maëlle
 Mauroux
 Mendes
-Metabolome
+metabolome
 Metabolomics
+Mietchen
 Mulhauser
 Neuchâtel
 NocoDB
@@ -76,7 +78,7 @@ SIB
 Sima
 SPARQL
 spectrometric
-spectrometry
+Spectrometry
 Tarcisio
 taxonomically
 treemap
@@ -84,3 +86,4 @@ UHPLC
 Université
 untargeted
 Wannier
+Willighagen
