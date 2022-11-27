@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@3e75f87](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/3e75f87ccec1feed32fb4724409fd305d1b609dd)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@79fc7ed](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/79fc7edf0c607d5dfe432ed4f8ab19720034df9f)
 on November 27, 2022.
 </em></small>
 
@@ -91,7 +91,12 @@ The Digital Botanical Gardens Initiative Consortium \<dbgi@protonmail.com\>.
 
 ## Abstract {.page_break_before}
 
-The Digital Botanical Gardens Initiative (DBGI) ambitions to explore innovative solutions for the collection, management and sharing of digital information acquired on living botanical collections. A particular focus will be placed on the large scale characterization of the chemodiversity of living plants collections through mass spectrometric approaches. The acquired data will be structured, organized and connected with relevant metadata through semantic web technology. The gathered knowledge will then inform ecosystem functioning research and orient biodiversity conservation projects. The DBGI initially aims to take advantage of the readily available living collections of Swiss botanical gardens to establish robust and scalable chemo- and biodiversity digitisation workflows. The ultimate goal is to apply these approaches in the field and at the global scale in wild ecosystems. 
+The Digital Botanical Gardens Initiative (DBGI) ambitions to explore innovative solutions for the collection, management and sharing of digital information acquired on living botanical collections.
+A particular focus will be placed on the large scale characterization of the chemodiversity of living plants collections through mass spectrometric approaches.
+The acquired data will be structured, organized and connected with relevant metadata through semantic web technology.
+The gathered knowledge will then inform ecosystem functioning research and orient biodiversity conservation projects.
+The DBGI initially aims to take advantage of the readily available living collections of Swiss botanical gardens to establish robust and scalable chemo- and biodiversity digitization workflows.
+The ultimate goal is to apply these approaches in the field and at the global scale in wild ecosystems. 
 
 ## Goals {.page_break_before}
 
@@ -136,29 +141,58 @@ For this first project, the sampling in botanical gardens is the  chosen option,
 
 ![
 **Characteristics of three main plant biodiversity sources for the scientist.**
-](images/dbgi-lab-botanical-wild.svg "Workflow"){#fig:dbgi-lab-botanical-wild width="60%"}
+](images/dbgi-lab-botanical-wild.svg "Workflow"){#fig:dbgi-lab-botanical-wild width="55%"}
 
 ## Outline of the research {.page_break_before}
 
-The aim of the DBGI is to characterize the chemodiversity of the all botanical gardens of Switzerland. This ambitious objective requires us to evaluate and test the entire workflow and methodology. For this, the initiators of the DBGI started gathering preliminary data from two botanical collections: the Jardin Botanique de l’Université de Fribourg ([JBUF](https://www.unifr.ch/jardin-botanique/fr/)) and the Jardin Botanique de Neuchâtel ([JBN](https://www.jbneuchatel.ch/)). This choice was made for practical reasons (these are the respective working places of the DBGI initiators) but also because these two gardens each offer their unique characteristics. On one hand the JBUF presents over 5000 species systematically organized to reflect the Angiosperm Phylogeny Group (APG) system. The JBUF researchers are specialized in conservation biology. On the other hand, the JBN presents over 2000 species organized in 8 sub-gardens. The JBN has a focus on ethnomedicinal plants.
-Below, we will briefly outline the research workflow envisioned for the DBGI. The main steps have been schematized in Figure 3. The overall workflow can be divided into two main parts: one dealing with physical objects (upper part of Figure 3) and a second one dealing with data and metadata acquired from these objects (lower part of Figure @fig:dbgi-general-workflow). 
+The aim of the DBGI is to characterize the chemodiversity of the all botanical gardens of Switzerland. This ambitious objective requires us to evaluate and test the entire workflow and methodology. For this, the initiators of the DBGI started gathering preliminary data from two botanical collections: the Jardin Botanique de l’Université de Fribourg ([JBUF](https://www.unifr.ch/jardin-botanique/fr/)) and the Jardin Botanique de Neuchâtel ([JBN](https://www.jbneuchatel.ch/)).
+This choice was made for practical reasons (these are the respective working places of the DBGI initiators) but also because these two gardens each offer their unique characteristics.
+On one hand the JBUF presents over 5000 species systematically organized to reflect the Angiosperm Phylogeny Group (APG) system.
+The JBUF researchers are specialized in conservation biology. On the other hand, the JBN presents over 2000 species organized in 8 sub-gardens.
+The JBN has a focus on ethnomedicinal plants.
+Below, we will briefly outline the research workflow envisioned for the DBGI.
+The main steps have been schematized in Figure @fig:dbgi-general-workflow).
+The overall workflow can be divided into two main parts: one dealing with physical objects (upper part of Figure 3) and a second one dealing with data and metadata acquired from these objects (lower part of Figure @fig:dbgi-general-workflow). 
 
-**_Physical objects._** Starting from a botanical garden (a living specimens collection), the aim is to sample each specimen and to build two libraries: a library of dried plant material and a library of chemical extracts. The dried plant material library will serve as a backup for extractions to be repeated, further characterization of compounds, or for orthogonal analysis (e.g. genetic sequencing). The chemical extracts library will be the source material for the mass-spectrometry digitization stage. This library will also be available for backups and orthogonal analysis (e.g. NMR profiling or bioassays campaigns). Complementary to herbarium, these two libraries offer an efficient way (reduced space, long term storage) to capture and conserve the chemistry of the botanical gardens.
+**_Physical objects._** Starting from a botanical garden (a living specimens collection), the aim is to sample each specimen and to build two libraries: a library of dried plant material and a library of chemical extracts.
+The dried plant material library will serve as a backup for extractions to be repeated, further characterization of compounds, or for orthogonal analysis (e.g. genetic sequencing).
+The chemical extracts library will be the source material for the mass-spectrometry digitization stage.
+This library will also be available for backups and orthogonal analysis (e.g. NMR profiling or bioassays campaigns).
+Complementary to herbarium, these two libraries offer an efficient way (reduced space, long term storage) to capture and conserve the chemistry of the botanical gardens.
 
 ![
 **Data types and fluxes in the DBGI.**
 ](images/dbgi-general-workflow.svg "Workflow"){#fig:dbgi-general-workflow width="100%"}
 
-**_Digital objects._** For all operations occurring on physical objects (sampling, conservation, extraction), metadata are collected to document the experiment. For each botanical garden, data collection is made at the species level. A species is collected for each garden, curated and taxonomically resolved (using the Open Tree of Life framework) in order to be compared across gardens. The [Botalista](https://botalista.community/) platform will also be exploited at this step. For each collected sample, data are acquired at a finer granularity (namely at the specimen level). Here we take advantage of the [iNaturalist](https://www.inaturalist.org/) platform and app. Using a smartphone, pictures of the sampled specimen (including eventual label in the botanical gardens, sampled organ and collection label), collector identity, date and geolocation are conveniently captured at the time of the collection. This data is then automatically collected by the [iNaturalist DBGI project](https://www.inaturalist.org/projects/digital-botanical-gardens-initiative). The data of the project can then be programmatically accessed via the [iNaturalist API](https://www.inaturalist.org/pages/api+reference). All species, specimens and experimental metadata will be collected and managed through an SQL database and accessed through a [NocoDB](https://www.nocodb.com/) instance for a convenient tracking of the samples by the DBGI participants.
+**_Digital objects._** For all operations occurring on physical objects (sampling, conservation, extraction), metadata are collected to document the experiment.
+For each botanical garden, data collection is made at the species level.
+A species is collected for each garden, curated and taxonomically resolved (using the Open Tree of Life framework) in order to be compared across gardens.
+The [Botalista](https://botalista.community/) platform will also be exploited at this step.
+For each collected sample, data are acquired at a finer granularity (namely at the specimen level).
+Here we take advantage of the [iNaturalist](https://www.inaturalist.org/) platform and app.
+Using a smartphone, pictures of the sampled specimen (including eventual label in the botanical gardens, sampled organ and collection label), collector identity, date and geolocation are conveniently captured at the time of the collection.
+This data is then automatically collected by the [iNaturalist DBGI project](https://www.inaturalist.org/projects/digital-botanical-gardens-initiative).
+The data of the project can then be programmatically accessed via the [iNaturalist API](https://www.inaturalist.org/pages/api+reference).
+All species, specimens and experimental metadata will be collected and managed through an SQL database and accessed through a [NocoDB](https://www.nocodb.com/) instance for a convenient tracking of the samples by the DBGI participants.
 
-The mass-spectrometry digitization then constitutes the core of the chemical information acquisition process. We use Ultra High Performance Liquid Chromatography coupled to High Resolution Mass Spectrometry (UHPLC-HRMS) to acquire fragmentation data in an untargeted fashion. Building on our computational metabolomics expertise we then organize and annotate the acquired pool of MS data. Here we will take advantage of five central tools (four of which were conceived by us). Molecular networking [@doi:10.1038/nbt.3597] will serve as a basis for spectral organization. The metabolite annotation will be performed by spectral matching against a theoretical natural products spectral database [@doi:10.1021/acs.analchem.5b04804] and via a taxonomically informed scoring process [@doi:10.3389/fpls.2019.01329] fed by the widest open resource of natural products biological occurrences ([LOTUS](https://www.wikidata.org/wiki/Wikidata:WikiProject_Chemistry/Natural_products) [@doi:10.7554/eLife.70780]).
+The mass-spectrometry digitization then constitutes the core of the chemical information acquisition process.
+We use Ultra High Performance Liquid Chromatography coupled to High Resolution Mass Spectrometry (UHPLC-HRMS) to acquire fragmentation data in an untargeted fashion.
+Building on our computational metabolomics expertise we then organize and annotate the acquired pool of MS data.
+Here we will take advantage of five central tools (four of which were conceived by us). Molecular networking [@doi:10.1038/nbt.3597] will serve as a basis for spectral organization.
+The metabolite annotation will be performed by spectral matching against a theoretical natural products spectral database [@doi:10.1021/acs.analchem.5b04804] and via a taxonomically informed scoring process [@doi:10.3389/fpls.2019.01329] fed by the widest open resource of natural products biological occurrences ([LOTUS](https://www.wikidata.org/wiki/Wikidata:WikiProject_Chemistry/Natural_products) [@doi:10.7554/eLife.70780]).
 
 ## Dissemination of the results {.page_break_before}
 
 The DBGI conducts this project following the Open Science principles, and by following the [Open Notebook Science](https://en.wikipedia.org/wiki/Open-notebook_science) concepts. This approach allows all research artifacts (e.g. research proposals, drafts, ideas, source code, raw and processed data etc.) produced in the frame of the DBGI to be publicly available immediately, from the moment of their production, and not only after peer-reviewed publication.
-To implement the DBGI Open Notebook we employ [Dendron](https://www.dendron.so/), an open-source and lightweight note-taking and knowledge management software. Dendrons are built using an ingenious system of markdown files hierarchically organized based on their filename. This allows for extremely efficient note searching and refactoring of the hierarchies. Dendrons can be conveniently shared across members of the DBGI, versioned via git and automatically published as websites. The DBGI Dendron can be browsed at <http://www.dbgi.org/dendron-dbgi/>. 
-Regarding raw data sharing, specimen-related information are hosted on the iNaturalist DBGI project  home page and pictures are shared under a permissive CC0 license allowing further reuse in Wikidata for example. Mass spectrometry profiles and metabolite annotation files will be hosted on the [MassIVE data platform](https://massive.ucsd.edu/) where they will benefit from a permanent DOI.  
-All the code written in the frame of the DBGI will be publicly shared and versioned through the [DBGI Github organization](https://github.com/digital-botanical-gardens-initiative). Ideas, comments and issues will be collected using [Github discussions](https://github.com/digital-botanical-gardens-initiative/forum/discussions).
+To implement the DBGI Open Notebook we employ [Dendron](https://www.dendron.so/), an open-source and lightweight note-taking and knowledge management software.
+Dendrons are built using an ingenious system of markdown files hierarchically organized based on their filename.
+This allows for extremely efficient note searching and refactoring of the hierarchies.
+Dendrons can be conveniently shared across members of the DBGI, versioned via git and automatically published as websites.
+The DBGI Dendron can be browsed at <http://www.dbgi.org/dendron-dbgi/>.
+Regarding raw data sharing, specimen-related information are hosted on the iNaturalist DBGI project home page and pictures are shared under a permissive CC0 license allowing further reuse in Wikidata for example.
+Mass spectrometry profiles and metabolite annotation files will be hosted on the [MassIVE data platform](https://massive.ucsd.edu/) where they will benefit from a permanent DOI.  
+All the code written in the frame of the DBGI will be publicly shared and versioned through the [DBGI Github organization](https://github.com/digital-botanical-gardens-initiative).
+Ideas, comments and issues will be collected using [Github discussions](https://github.com/digital-botanical-gardens-initiative/forum/discussions).
 
 
 

@@ -55,8 +55,8 @@ Lütcke
 Maëlle
 Mauroux
 Mendes
-Metabolome
-metabolomics
+metabolome
+Metabolomics
 Mulhauser
 Neuchâtel
 NocoDB
