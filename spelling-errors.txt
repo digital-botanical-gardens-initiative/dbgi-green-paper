@@ -13,6 +13,7 @@ Boillat
 Botalista
 Botanique
 Bruelhart
+Camara
 Caterina
 CHEBI
 chemodiversity
@@ -52,13 +53,14 @@ JBUF
 Kneubuhl
 Kozlowski
 Lausanne
+Leret
 l’Université
 Lütcke
 Maëlle
 Mauroux
 Mendes
 Metabolome
-Metabolomics
+metabolomics
 Mietchen
 Mulhauser
 Neuchâtel
@@ -78,7 +80,7 @@ SIB
 Sima
 SPARQL
 spectrometric
-spectrometry
+Spectrometry
 Tarcisio
 taxonomically
 treemap
