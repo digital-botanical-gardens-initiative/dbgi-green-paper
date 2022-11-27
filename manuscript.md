@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8bc6bd679fd71d704b450d25f0cbc7f3d47ffcf4/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8bc6bd679fd71d704b450d25f0cbc7f3d47ffcf4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8bc6bd679fd71d704b450d25f0cbc7f3d47ffcf4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a816df4c0db5808bbd73dd655844280c0d843e29/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a816df4c0db5808bbd73dd655844280c0d843e29/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a816df4c0db5808bbd73dd655844280c0d843e29/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/8bc6bd679fd71d704b450d25f0cbc7f3d47ffcf4/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/a816df4c0db5808bbd73dd655844280c0d843e29/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@8bc6bd6](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/8bc6bd679fd71d704b450d25f0cbc7f3d47ffcf4)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@a816df4](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/a816df4c0db5808bbd73dd655844280c0d843e29)
 on November 27, 2022.
 </em></small>
 
@@ -101,7 +101,7 @@ The ultimate goal is to apply these approaches in the field and at the global sc
 ## Background and context {.page_break_before}
 
 
-Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals have been described [@doi:10.1038/news.2011.498], about a million species are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
+Biodiversity is a major determinant of ecosystem stability [@doi:10.1146/annurev-ecolsys-120213-091917]. Hundreds of studies spanning terrestrial and aquatic ecosystems support that higher levels of biodiversity, in all its forms, promote better ecosystem functions, such as carbon sequestration, underpinning human well‐being [@doi:10.1126/science.1064088;@doi:10.1007/s004420050035]. Sadly, earth is experiencing a major biodiversity crisis and of the estimated nine million species of fungi, plants, and animals which have been described [@doi:10.1038/news.2011.498], about a million are currently at risk of extinction and may go extinct before the end of the century [@doi:10.5281/zenodo.6417333]. One major issue is that more than 80% of the estimated biodiversity still awaits to be described. We are in fact facing what is now called the Anthropocene extinction (sixth mass extinction) [@doi:10.1126/science.aau0191]. In order to try to deviate from these alarming trends, all possible efforts must be made by the responsible (i.e. our species) for the conservation of biodiversity. For this, the characterisation and documentation of biodiversity is a fundamental prerequisite. 
 Over 3.5 billion years of evolution, natural selection, the craftsman of biodiversity, has created an overwhelming array of molecular entities. Myriad compounds are produced by all living organisms from bacteria to whales, forming the backbone of the ever-growing tree of life. Through the lens of chemistry, every species, biotic interaction, and community, reveals a unique ensemble of molecular structures: the metabolome. These chemical assemblages are a valuable, yet largely unexplored reflection of biodiversity and ecosystem functioning. To go beyond the simple quantitative representation of biodiversity provided by species inventories, and to reinforce our understanding of links between biodiversity and ecosystem functioning, we see chemical diversity as an alternative and highly complementary view of the diversity of our planet’s ecosystems.
 
 
