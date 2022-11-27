@@ -9,7 +9,7 @@ keywords:
 - knowledge graph
 - biodiversity conservation
 lang: en-US
-date-meta: '2022-11-26'
+date-meta: '2022-11-27'
 author-meta:
 - The Digital Botanical Gardens Initiative Consortium
 header-includes: |-
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="The Digital Botanical Gardens Initiative" />
   <meta property="og:title" content="The Digital Botanical Gardens Initiative" />
   <meta property="twitter:title" content="The Digital Botanical Gardens Initiative" />
-  <meta name="dc.date" content="2022-11-26" />
-  <meta name="citation_publication_date" content="2022-11-26" />
+  <meta name="dc.date" content="2022-11-27" />
+  <meta name="citation_publication_date" content="2022-11-27" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4b90b74047d7496bab7b169f1bc773f546b5b5e9/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4b90b74047d7496bab7b169f1bc773f546b5b5e9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4b90b74047d7496bab7b169f1bc773f546b5b5e9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,10 +61,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/2b7786f5d285dfcf9e53a190c89095c6969bd624/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/4b90b74047d7496bab7b169f1bc773f546b5b5e9/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@2b7786f](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/2b7786f5d285dfcf9e53a190c89095c6969bd624)
-on November 26, 2022.
+from [digital-botanical-gardens-initiative/dbgi-green-paper@4b90b74](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/4b90b74047d7496bab7b169f1bc773f546b5b5e9)
+on November 27, 2022.
 </em></small>
 
 ## Authors
@@ -168,7 +168,8 @@ All the code written in the frame of the DBGI will be publicly shared and versio
 **Note:** the DBGI is welcoming any researchers interested to join the initiative. We expect people to participate according to their ressource/time/interest at the level they suit.
 
 ### Initiators
-- Pierre-Marie Allard (COMMONS Lab, University of Fribourg)
+
+- Pierre-Marie Allard ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
 - Emmanuel Defossez (Institute of Biology, University of Neuchâtel & JBN)
 
 ### Core team 
@@ -176,415 +177,159 @@ All the code written in the frame of the DBGI will be publicly shared and versio
 <!-- include the Font Awesome library, per: https://fontawesome.com/start -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
 
-
 [
-<i class="fas fa-info-circle fa-lg"></i> **We need you !**<br>
-You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below) for the following areas.
+<i class="fa-solid fa-arrow-right-to-bracket"></i> **Join the core team !**<br>
+You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a year ? You are willing to lead a group of Collaborators (see below) or gather Expert knowledge (see below). Join us in one of the following areas. We need you !
 ]{.banner .lightgrey}
 
 
 <i class="fas fa-vials"></i> Sampling & Collections Management
 
+-
+-
+
 <i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
+
+-
+-
+
 
 <i class="fa-solid fa-diagram-project"></i> Linked data & Knowledge management
 
-<i class="fas fa-diagram-project"></i>
+-
+-
+
 
 <i class="fas fa-lock-open"></i> Open Science & Dissemination
 
+-
+-
+
+
 <i class="fas fa-capsules"></i> Fundamental & Applied Research (from functional ecology to drug discovery)
+
+-
+-
 
 <i class="fas fa-earth-europe"></i> Biodiversity Conservation
 
-<i class="fa-solid fa-earth-europe"></i>
+-
+-
 
-<i class="fa-solid fa-chart-network"></i>
 
-<i class="fas fa-chart-network"></i>
-
-Collaborators 
-
-You are willing to put your hands in the dirt and concretely contribute to the DBGI under the following areas. We need you ! If you have expert knowledge to share but not that much time see Expert section 
-Sampling & Collections Management
-Edouard Bruelhart (COMMONS Lab, University of Fribourg)
-Gregor Kozlowski (JBUF)
-??? (to be contacted) Blaise Mulhauser (JBN)
-Nadir Alvarez (Université de Genève)
-Donat Agosti (Plazi)
-Cyril Boillat (Botalista)
-??? (to be contacted) Laurent Kneubuhl (Botalista)
-??? (to be contacted) Brian Sedio (University of Texas at Austin)
-Metabolomics & Computational Mass Spectrometry
-Ming Wang (University of Riverside)
-??? (to be contacted) Gaétan Glauser (University of Neuchâtel)
-??? (to be contacted) Brian Sedio (University of Texas at Austin)
-Linked data & Knowledge management 
-??? (to be contacted) Philippe Cudré-Mauroux (University of Fribourg)
-Christophe Dessimoz (University of Lausanne)
-Donat Agosti (Plazi)
-Cyril Boillat (Botalista)
-??? (to be contacted) Laurent Kneubuhl (Botalista)
-??? (to be contacted) Jakub Galgonek (Elixir Prague)
-??? (to be contacted) Marco Pagni (SIB)
-Tarcisio Mendes (SIB)
-Ana-Claudia Sima (SIB)
-Open Science & Dissemination
-Christophe Dessimoz (University of Lausanne)
-Donat Agosti (Plazi)
-Henry Lütcke (ETHZ)
-Bernd Rinn (ETHZ)
-Caterina Barillari (ETHZ)
-Fundamental & Applied Research (from functional ecology to drug discovery)
-Sergio Rassmann (University of Neuchâtel)
-Thomas Walker (University of Neuchâtel)
-??? (to be contacted) Patrice Descombes (University of Lausanne)
-??? (to be contacted) Nadir Alvarez (Université de Genève)
-??? (to be contacted) Brian Sedio (University of Texas at Austin)
-Biodiversity Conservation
-Gregor Kozlowski (JBUF)
-??? (to be contacted) Patrice Descombes (University of Lausanne)
-Experts
-You have expertise in the following areas and you are OK that we pick your brain for let’s say … a one hour meeting each month.
-Sampling & Collections Management
-Gregor Kozlowski (JBUF)
-??? (to be contacted) Blaise Mulhauser (JBN)
-Nadir Alvarez (Université de Genève)
-Donat Agosti (Plazi)
-Cyril Boillat (Botalista)
-??? (to be contacted) Laurent Kneubuhl (Botalista)
-Metabolomics & Computational Mass Spectrometry
-Ming Wang (University of Riverside)
-??? (to be contacted) Gaétan Glauser (University of Neuchâtel)
-??? (to be contacted) Brian Sedio (University of Texas at Austin)
-Linked data & Knowledge management 
-??? (to be contacted) Philippe Cudré-Mauroux (University of Fribourg)
-Christophe Dessimoz (University of Lausanne)
-Donat Agosti (Plazi)
-Cyril Boillat (Botalista)
-??? (to be contacted) Laurent Kneubuhl (Botalista)
-??? (to be contacted) Jakub Galgonek (Elixir Prague)
-??? (to be contacted) Marco Pagni (SIB)
-Tarcisio Mendes (SIB)
-Ana-Claudia Sima (SIB)
-Open Science & Dissemination
-Christophe Dessimoz (University of Lausanne)
-Donat Agosti (Plazi)
-Henry Lütcke (ETHZ)
-Bernd Rinn (ETHZ)
-Caterina Barillari (ETHZ)
-Fundamental & Applied Research (from functional ecology to drug discovery)
-Sergio Rassmann (University of Neuchâtel)
-Thomas Walker (University of Neuchâtel)
-??? (to be contacted) Patrice Descombes (University of Lausanne)
-??? (to be contacted) Nadir Alvarez (Université de Genève)
-??? (to be contacted) Brian Sedio (University of Texas at Austin)
-
-Biodiversity Conservation
-Gregor Kozlowski (JBUF)
-??? (to be contacted) Patrice Descombes (University of Lausanne)
-Botanical Gardens
-Jardin Botanique de l’Université de Fribourg (JBUF)
-Jardin Botanique de Neuchatel (JBN)
-??? Conservatoire et Jardins Botanique de Genève (CJBG)
-??? Jardin Botanique de Lausanne (JBL)
-
-
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
-
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
-
-## Basic formatting
-
-**Bold** __text__
-
-[Semi-bold text]{.semibold}
-
-[Centered text]{.center}
-
-[Right-aligned text]{.right}
-
-*Italic* _text_
-
-Combined *italics and __bold__*
-
-~~Strikethrough~~
-
-1. Ordered list item
-2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
-
-- List item
-- List item
-- List item
-
-subscript: H~2~O is a liquid
-
-superscript: 2^10^ is 1024.
-
-[unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
-
-[unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
-
-A long paragraph of text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
-
-Line break without starting a new paragraph by putting  
-two spaces at end of line.
-
-## Document organization
-
-Document section headings:
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### A heading centered on its own printed page{.center .page_center}
-
-<!-- an arbitrary comment. visible in input, but not visible in output. -->
-
-Horizontal rule:
-
----
-
-`Heading 1`'s are recommended to be reserved for the title of the manuscript.
-
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
-
-`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
-
-## Links
-
-Bare URL link: <https://manubot.org>
-
-[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
-
-[Link with text](https://manubot.org)
-
-[Link with hover text](https://manubot.org "Manubot Homepage")
-
-[Link by reference][manubot homepage]
-
-[Manubot Homepage]: https://manubot.org
-
-## Citations
-
-Citation by DOI [@doi:10.7554/eLife.32822].
-
-Citation by PubMed Central ID [@pmc:PMC6103790].
-
-Citation by PubMed ID [@pubmed:30718888].
-
-Citation by Wikidata ID [@wikidata:Q56458321].
-
-<!-- Citation by ISBN [@isbn:9780262517638]. -->
-
-<!-- Citation by URL [@{https://greenelab.github.io/meta-review/}]. -->
-
-Citation by alias [@deep-review].
-
-<!-- Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638]. -->
-Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
-
-Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
-
-[@deep-review]: doi:10.1098/rsif.2017.0387
-
-## Referencing figures, tables, equations
-
-Figure @fig:square-image
-
-Figure @fig:wide-image
-
-Figure @fig:tall-image
-
-Figure @fig:vector-image
-
-Table @tbl:bowling-scores
-
-Equation @eq:regular-equation
-
-Equation @eq:long-equation
-
-## Quotes and code
-
-> Quoted text
-
-> Quoted block of text
->
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.
-
-Code `in the middle` of normal text, aka `inline code`.
-
-Code block with Python syntax highlighting:
-
-```python
-from manubot.cite.doi import expand_short_doi
-
-def test_expand_short_doi():
-    doi = expand_short_doi("10/c3bp")
-    # a string too long to fit within page:
-    assert doi == "10.25313/2524-2695-2018-3-vliyanie-enhansera-copia-i-insulyatora-gypsy-na-sintez-ernk-modifikatsii-hromatina-i-svyazyvanie-insulyatornyh-belkov-vtransfetsirovannyh-geneticheskih-konstruktsiyah"
-```
-
-Code block with no syntax highlighting:
-
-```
-Exporting HTML manuscript
-Exporting DOCX manuscript
-Exporting PDF manuscript
-```
-
-## Figures
-
-![
-**A square image at actual size and with a bottom caption.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/square.png "Square image"){#fig:square-image}
-
-![
-**An image too wide to fit within page at full size.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
-
-![
-**A tall image with a specified height.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/tall.png "Tall image"){#fig:tall-image height=3in}
-
-![
-**A vector `.svg` image loaded from GitHub.**
-The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
-White background specified to serve as a backdrop for transparent sections of the image.
-](https://raw.githubusercontent.com/manubot/resources/main/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
-
-## Tables
-
-| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
-|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Game 1 | 150 | 187 | 210 | 105 |
-| Game 2 |  98 | 202 | 197 | 102 |
-| Game 3 | 123 | 180 | 238 | 134 |
-
-Table: A table with a top caption and specified relative column widths.
-{#tbl:bowling-scores}
-
-|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
-|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
-| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
-| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
-
-Table: A table too wide to fit within page.
-{#tbl:constant-digits}
-
-|          | **Colors** <!-- $colspan="2" --> |                      |
-|:--------:|:--------------------------------:|:--------------------:|
-| **Size** | **Text Color**                   | **Background Color** |
-| big      | blue                             | orange               |
-| small    | black                            | white                |
-
-Table: A table with merged cells using the `attributes` plugin.
-{#tbl: merged-cells}
-
-## Equations
-
-A LaTeX equation:
-
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
-
-An equation too long to fit within page:
-
-$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
-
-## Special
-
-<i class="fas fa-exclamation-triangle"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
-_Journals are not likely to support them, and they may not display correctly when converted to other formats such as `.docx`._
-
-[Link styled as a button](https://manubot.org "Manubot Homepage"){.button}
-
-Adding arbitrary HTML attributes to an element using Pandoc's attribute syntax:
-
-::: {#some_id_1 .some_class style="background: #ad1457; color: white; margin-left: 40px;" title="a paragraph of text" data-color="white" disabled="true"}
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-:::
-
-Adding arbitrary HTML attributes to an element with the Manubot `attributes` plugin (more flexible than Pandoc's method in terms of which elements you can add attributes to):
-
-Manubot Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot Manubot.
-Manubot Manubot Manubot.
-Manubot Manubot.
-Manubot.
-<!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
-
-Available background colors for text, images, code, banners, etc:  
-
-`white`{.white}
-`lightgrey`{.lightgrey}
-`grey`{.grey}
-`darkgrey`{.darkgrey}
-`black`{.black}
-`lightred`{.lightred}
-`lightyellow`{.lightyellow}
-`lightgreen`{.lightgreen}
-`lightblue`{.lightblue}
-`lightpurple`{.lightpurple}
-`red`{.red}
-`orange`{.orange}
-`yellow`{.yellow}
-`green`{.green}
-`blue`{.blue}
-`purple`{.purple}
-
-Using the [Font Awesome](https://fontawesome.com/) icon set:
-
-<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.1/css/all.css">
-
-<i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
+### Collaborators 
 
 [
-<i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
-useful for *general information* - [manubot.org](https://manubot.org/)
+<i class="fa-solid fa-arrow-right-to-bracket"></i> **Collaborate !**<br>
+You are willing to put your hands in the dirt and concretely contribute to the DBGI under any of the following areas. We need you ! If you have expert knowledge to share but not that much time, please see Expert section.
 ]{.banner .lightgrey}
 
-[
-<i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
-useful for *important information* - [manubot.org](https://manubot.org/)
-]{.banner .lightblue}
+
+#### Sampling & Collections Management
+
+- Edouard Bruelhart ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
+
+##### Metabolomics & Computational Mass Spectrometry
+
+-
+##### Linked data & Knowledge management 
+
+- Maëlle Wannier ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
+-
+##### Open Science & Dissemination
+
+-
+-
+##### Fundamental & Applied Research (from functional ecology to drug discovery)
+-
+-
+
+##### Biodiversity Conservation
+- 
+-
+
+
+#### Experts
 
 [
-<i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
-useful for *warnings* - [manubot.org](https://manubot.org/)
-]{.banner .lightred}
+<i class="fa-solid fa-arrow-right-to-bracket"></i> **Share your expertise !**<br>
+You have expertise in one or several of the following areas and you are OK that we pick your brain for let’s say … a one hour meeting once every two month.
+]{.banner .lightgrey}
 
+##### Sampling & Collections Management
+
+- 
+-
+
+##### Metabolomics & Computational Mass Spectrometry
+
+- 
+
+##### Linked data & Knowledge management 
+
+- 
+-
+
+##### Open Science & Dissemination
+
+- 
+-
+
+##### Fundamental & Applied Research (from functional ecology to drug discovery)
+
+- 
+-
+
+
+##### Biodiversity Conservation
+
+- 
+
+
+
+#### Botanical Gardens
+
+- Jardin Botanique de l’Université de Fribourg (JBUF)
+- Jardin Botanique de Neuchatel (JBN)
+- ??? Conservatoire et Jardins Botanique de Genève (CJBG)
+- ??? Jardin Botanique de Lausanne (JBL)
+
+
+
+#### Contacts 
+
+[
+<i class="fa-solid fa-address-book"></i> Contacts list**<br>
+
+Here is the DBGI address book.
+<i class="fa-regular fa-square-check"></i> Have been contacted, informed of the DBGI and expressed interest to be part in one of the above sections.
+<i class="fa-regular fa-square"></i> To be contacted.
+
+]{.banner .lightnblue}
+
+- <i class="fa-regular fa-square-check"></i> Donat Agosti (Plazi)
+- <i class="fa-regular fa-square-check"></i> Nadir Alvarez (Université de Genève)
+- <i class="fa-regular fa-square-check"></i> Caterina Barillari (ETHZ)
+- <i class="fa-regular fa-square-check"></i> Cyril Boillat (Botalista)
+- <i class="fa-regular fa-square-check"></i> Edouard Bruelhart ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
+- <i class="fa-regular fa-square"></i> Philippe Cudré-Mauroux (University of Fribourg)
+- <i class="fa-regular fa-square"></i> Patrice Descombes (University of Lausanne)
+- <i class="fa-regular fa-square-check"></i> Christophe Dessimoz (University of Lausanne)
+- <i class="fa-regular fa-square"></i> Jakub Galgonek (Elixir Prague)
+- <i class="fa-regular fa-square"></i> Gaétan Glauser (University of Neuchâtel)
+- <i class="fa-regular fa-square-check"></i> Gregor Kozlowski (JBUF)
+- <i class="fa-regular fa-square-check"></i> Henry Lütcke (ETHZ)
+- <i class="fa-regular fa-square"></i> Laurent Kneubuhl (Botalista)
+- <i class="fa-regular fa-square-check"></i> Tarcisio Mendes (SIB)
+- <i class="fa-regular fa-square-check"></i> Blaise Mulhauser (JBN)
+- <i class="fa-regular fa-square"></i> Marco Pagni (SIB)
+- <i class="fa-regular fa-square"></i> Brian Sedio (University of Texas at Austin)
+- <i class="fa-regular fa-square-check"></i> Sergio Rassmann (University of Neuchâtel)
+- <i class="fa-regular fa-square-check"></i> Bernd Rinn (ETHZ)
+- <i class="fa-regular fa-square-check"></i> Ana-Claudia Sima (SIB)
+- <i class="fa-regular fa-square-check"></i> Thomas Walker (University of Neuchâtel)
+- <i class="fa-regular fa-square-check"></i> Ming Wang (University of Riverside)
+- <i class="fa-regular fa-square-check"></i> Maëlle Wannier ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
 
 ## References {.page_break_before}
 
