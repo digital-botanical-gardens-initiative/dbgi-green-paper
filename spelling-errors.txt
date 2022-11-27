@@ -19,7 +19,7 @@ chemodiversity
 Christophe
 CJBG
 Cudré
-DBGI
+dbgi
 Defossez
 Dendron
 Dendrons
@@ -55,7 +55,7 @@ Lütcke
 Maëlle
 Mauroux
 Mendes
-Metabolome
+metabolome
 Metabolomics
 Mulhauser
 Neuchatel
