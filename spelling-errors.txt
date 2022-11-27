@@ -57,7 +57,7 @@ Maëlle
 Mauroux
 Mendes
 metabolome
-Metabolomics
+metabolomics
 Mulhauser
 Neuchâtel
 NocoDB
