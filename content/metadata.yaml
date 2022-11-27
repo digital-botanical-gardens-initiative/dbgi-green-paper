@@ -21,6 +21,7 @@ authors:
     #   - Department of Something, University of Whatever
     # funders:
     #   - Grant XXXXXXXX
+    corresponding: true
   # - github: janeroe
   #   name: Jane Roe
   #   initials: JR
@@ -29,4 +30,3 @@ authors:
   #   affiliations:
   #     - Department of Something, University of Whatever
   #     - Department of Whatever, University of Something
-    corresponding: true
