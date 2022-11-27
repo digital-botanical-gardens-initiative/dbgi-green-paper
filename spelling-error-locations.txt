@@ -130,6 +130,10 @@ content/07.the-dbgi-consortium.md:11:Fribourg
 content/07.the-dbgi-consortium.md:12:Defossez
 content/07.the-dbgi-consortium.md:12:JBN
 content/07.the-dbgi-consortium.md:12:Neuchâtel
+content/07.the-dbgi-consortium.md:21:dbgi
+content/07.the-dbgi-consortium.md:21:dbgi
+content/07.the-dbgi-consortium.md:21:dbgi
+content/07.the-dbgi-consortium.md:21:dbgi
 content/07.the-dbgi-consortium.md:21:DBGI
 content/07.the-dbgi-consortium.md:26:Metabolomics
 content/07.the-dbgi-consortium.md:26:Spectrometry

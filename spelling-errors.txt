@@ -19,7 +19,7 @@ chemodiversity
 Christophe
 CJBG
 Cudré
-DBGI
+dbgi
 Defossez
 Dendron
 Dendrons
@@ -76,7 +76,7 @@ SIB
 Sima
 SPARQL
 spectrometric
-spectrometry
+Spectrometry
 Tarcisio
 taxonomically
 treemap
