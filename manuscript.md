@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/79fc7edf0c607d5dfe432ed4f8ab19720034df9f/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@79fc7ed](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/79fc7edf0c607d5dfe432ed4f8ab19720034df9f)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@543ab50](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/543ab50de8688e172acfdfa567e4d3d91d6712ee)
 on November 27, 2022.
 </em></small>
 
