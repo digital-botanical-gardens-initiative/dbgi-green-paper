@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e49b9691816a5b5b691c7da17729e2c0ccd23939/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e49b9691816a5b5b691c7da17729e2c0ccd23939/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e49b9691816a5b5b691c7da17729e2c0ccd23939/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/c310aac888d6834ffdd0865a0903019960ee1ee7/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e49b9691816a5b5b691c7da17729e2c0ccd23939/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@c310aac](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/c310aac888d6834ffdd0865a0903019960ee1ee7)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@e49b969](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/e49b9691816a5b5b691c7da17729e2c0ccd23939)
 on November 27, 2022.
 </em></small>
 
@@ -237,24 +237,15 @@ You have expertise in one or several of the following areas and you are OK that 
 #### <i class="fas fa-earth-europe"></i> Biodiversity Conservation
 
 
-
-#### Botanical Gardens
-
-- Jardin Botanique de l’Université de Fribourg (JBUF)
-- Jardin Botanique de Neuchatel (JBN)
-- ??? Conservatoire et Jardins Botanique de Genève (CJBG)
-- ??? Jardin Botanique de Lausanne (JBL)
-
-#### Contacts 
+### Contacts 
 
 [
-<i class="fa-solid fa-address-book"></i> ** Contacts list**<br>
-
+<i class="fa-solid fa-address-book"></i> **Contacts list**<br>
 Here is the DBGI address book.
 <i class="fa-regular fa-square-check"></i> Have been contacted, informed of the DBGI and expressed interest to be part in one of the above sections.
 <i class="fa-regular fa-square"></i> To be contacted.
+]{.banner .lightblue}
 
-]{.banner .lightnblue}
 
 - <i class="fa-regular fa-square-check"></i> Donat Agosti (Plazi)
 - <i class="fa-regular fa-square-check"></i> Nadir Alvarez (Université de Genève)
@@ -279,6 +270,21 @@ Here is the DBGI address book.
 - <i class="fa-regular fa-square-check"></i> Thomas Walker (University of Neuchâtel)
 - <i class="fa-regular fa-square-check"></i> Ming Wang (University of Riverside)
 - <i class="fa-regular fa-square-check"></i> Maëlle Wannier ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
+
+### Botanical Gardens
+
+[
+<i class="fa-solid fa-seedling"></i> **Botanical Gardens**<br>
+The following botanical gardens of Switzerland are part of the DBGI.<br>
+<i class="fa-solid fa-hourglass-half"></i> Collections and profiling are ongoing.<br>
+<i class="fa-solid fa-hourglass-start"></i> Botanical garden team has been contacted, next on the list !<br>
+<i class="fa-regular fa-square"></i> Botanical garden to be contacted.<br>
+]{.bannerleft .lightgreen}
+
+- <i class="fa-solid fa-hourglass-half"></i> Jardin Botanique de l’Université de Fribourg (JBUF)
+- <i class="fa-solid fa-hourglass-half"></i>  Jardin Botanique de Neuchâtel (JBN)
+- <i class="fa-solid fa-hourglass-start"></i> Jardin Botanique de Lausanne (JBL)
+- <i class="fa-regular fa-square"></i> Conservatoire et Jardins Botanique de Genève (CJBG)
 
 ## References {.page_break_before}
 

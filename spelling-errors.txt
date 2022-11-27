@@ -55,10 +55,9 @@ Lütcke
 Maëlle
 Mauroux
 Mendes
-Metabolome
+metabolome
 metabolomics
 Mulhauser
-Neuchatel
 Neuchâtel
 NocoDB
 ontologies
