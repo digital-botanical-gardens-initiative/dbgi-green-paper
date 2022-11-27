@@ -19,7 +19,7 @@ chemodiversity
 Christophe
 CJBG
 Cudré
-DBGI
+dbgi
 Defossez
 Dendron
 Dendrons
@@ -56,7 +56,7 @@ Maëlle
 Mauroux
 Mendes
 Metabolome
-Metabolomics
+metabolomics
 Mulhauser
 Neuchâtel
 NocoDB
@@ -76,7 +76,7 @@ SIB
 Sima
 SPARQL
 spectrometric
-Spectrometry
+spectrometry
 Tarcisio
 taxonomically
 treemap

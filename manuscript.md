@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f008f0ff8ea60e96f8f6035a39a615957560c0bf/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f008f0ff8ea60e96f8f6035a39a615957560c0bf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f008f0ff8ea60e96f8f6035a39a615957560c0bf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/f008f0ff8ea60e96f8f6035a39a615957560c0bf/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/3e75f87ccec1feed32fb4724409fd305d1b609dd/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@f008f0f](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/f008f0ff8ea60e96f8f6035a39a615957560c0bf)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@3e75f87](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/3e75f87ccec1feed32fb4724409fd305d1b609dd)
 on November 27, 2022.
 </em></small>
 
@@ -129,14 +129,14 @@ Over 3.5 billion years of evolution, natural selection, the craftsman of biodive
 
 ## Rationale {.page_break_before}
 
-With these urgent biodiversity characterization objectives in mind we are setting up the Digital Botanical Gardens Initiative (DBGI), which aims to develop robust and scalable workflows for the digitization of botanical gardens using several approaches. The central one being the use of analytical chemistry strategies to build information-rich chemical maps that will guide researchers focusing on biodiversity characterization and conservation.
+With these urgent biodiversity characterization objectives in mind we are setting up the Digital Botanical Gardens Initiative (DBGI), which aims to develop robust and scalable workflows for the digitization of botanical gardens using several approaches.
+The central one being the use of analytical chemistry strategies to build information-rich chemical maps that will guide researchers focusing on biodiversity characterization and conservation.
+Sampling plants for chemical characterization can be done in three ways, either from natural living collections (botanical gardens), in the wild, or by growing plants in highly controlled settings (See Figure @fig:dbgi-lab-botanical-wild for an overview of the advantages and inconveniences of each biodiversity source).
+For this first project, the sampling in botanical gardens is the  chosen option, as within a very accessible location, thousands of species, which are already identified, labeled and organized, can be readily sampled.
 
 ![
 **Characteristics of three main plant biodiversity sources for the scientist.**
 ](images/dbgi-lab-botanical-wild.svg "Workflow"){#fig:dbgi-lab-botanical-wild width="60%"}
-
-Sampling plants for chemical characterization can be done in three ways, either from natural living collections (botanical gardens), in the wild, or by growing plants in highly controlled settings (See Figure @fig:dbgi-lab-botanical-wild for an overview of the advantages and inconveniences of each biodiversity source). For this first project, the sampling in botanical gardens is the  chosen option, as within a very accessible location, thousands of species, which are already identified, labeled and organized,  can be readily sampled.
-
 
 ## Outline of the research {.page_break_before}
 

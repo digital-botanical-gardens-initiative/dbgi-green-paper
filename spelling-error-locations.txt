@@ -44,9 +44,9 @@ content/03.background-and-context.md:5:biotic
 content/03.background-and-context.md:5:metabolome
 content/04.rationale.md:3:DBGI
 content/04.rationale.md:3:scalable
-content/04.rationale.md:7:dbgi
-content/04.rationale.md:7:dbgi
-content/04.rationale.md:9:dbgi
+content/04.rationale.md:5:dbgi
+content/04.rationale.md:10:dbgi
+content/04.rationale.md:10:dbgi
 content/05.outline-of-the-research.md:3:APG
 content/05.outline-of-the-research.md:3:botanique
 content/05.outline-of-the-research.md:3:Botanique
