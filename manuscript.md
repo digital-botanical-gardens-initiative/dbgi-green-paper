@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e388be3ff4e12026e23397cecb3e08e7a690152d/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e388be3ff4e12026e23397cecb3e08e7a690152d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e388be3ff4e12026e23397cecb3e08e7a690152d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,9 +61,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/543ab50de8688e172acfdfa567e4d3d91d6712ee/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/e388be3ff4e12026e23397cecb3e08e7a690152d/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@543ab50](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/543ab50de8688e172acfdfa567e4d3d91d6712ee)
+from [digital-botanical-gardens-initiative/dbgi-green-paper@e388be3](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/e388be3ff4e12026e23397cecb3e08e7a690152d)
 on November 27, 2022.
 </em></small>
 
@@ -199,7 +199,11 @@ Ideas, comments and issues will be collected using [Github discussions](https://
 
 ## The DBGI Consortium {.page_break_before}
 
-**Note:** the DBGI is welcoming any researchers interested to join the initiative. We expect people to participate according to their ressource/time/interest at the level they suit.
+**Note:** The DBGI is welcoming researchers at any academic age : from bachelor to old emeritus professors.
+The DBGI is also open to people outside academia interested in joining the initiative.
+According to your interests, specific expertises and available time, you can participate at several levels of the DBGI Consortium.
+These levels are not mutually exclusive.
+Please contact us (<dbgi@protonmail.com>) if you are willing to jump in or want to know more.
 
 ### Initiators
 
@@ -218,7 +222,7 @@ You have ca. 2 hours / week to dedicate to the DBGI plus time for 6 meetings a y
 
 #### <i class="fas fa-vials"></i> Sampling & Collections Management
 
-#### <i class="fas fa-microscope"></i>  Metabolomics & Computational Mass Spectrometry
+#### <i class="fas fa-microscope"></i> Metabolomics & Computational Mass Spectrometry
 
 #### <i class="fa-solid fa-diagram-project"></i> Linked data & Knowledge management
 
