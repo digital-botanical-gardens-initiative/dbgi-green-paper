@@ -9,7 +9,7 @@ keywords:
 - knowledge graph
 - biodiversity conservation
 lang: en-US
-date-meta: '2022-11-27'
+date-meta: '2022-12-23'
 author-meta:
 - The Digital Botanical Gardens Initiative Consortium
 header-includes: |-
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="The Digital Botanical Gardens Initiative" />
   <meta property="og:title" content="The Digital Botanical Gardens Initiative" />
   <meta property="twitter:title" content="The Digital Botanical Gardens Initiative" />
-  <meta name="dc.date" content="2022-11-27" />
-  <meta name="citation_publication_date" content="2022-11-27" />
+  <meta name="dc.date" content="2022-12-23" />
+  <meta name="citation_publication_date" content="2022-12-23" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,10 +61,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@b6d3d9b](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/b6d3d9bdf7a7d550ce46086b7d0a1aa66e072242)
-on November 27, 2022.
+from [digital-botanical-gardens-initiative/dbgi-green-paper@57d6255](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/57d6255ef295dfdacfd38540e2268442ba14b7a2)
+on December 23, 2022.
 </em></small>
 
 ## Authors
@@ -312,6 +312,7 @@ Here is the DBGI address book.
 - <i class="fa-regular fa-square-check"></i> Thomas Walker (University of Neuchâtel)
 - <i class="fa-regular fa-square-check"></i> Ming Wang (University of Riverside)
 - <i class="fa-regular fa-square-check"></i> Maëlle Wannier ([COMMONS Lab](https://www.unifr.ch/bio/en/groups/allard/), University of Fribourg)
+- <i class="fa-regular fa-square-check"></i> Rob Waterhouse (University of Lausanne)
 - <i class="fa-regular fa-square"></i> Egon Willighagen
 
 

@@ -83,7 +83,7 @@ SIB
 Sima
 SPARQL
 spectrometric
-Spectrometry
+spectrometry
 Tarcisio
 taxonomically
 treemap
@@ -91,4 +91,5 @@ UHPLC
 Université
 untargeted
 Wannier
+Waterhouse
 Willighagen
