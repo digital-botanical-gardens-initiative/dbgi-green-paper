@@ -9,7 +9,7 @@ keywords:
 - knowledge graph
 - biodiversity conservation
 lang: en-US
-date-meta: '2022-12-23'
+date-meta: '2022-12-26'
 author-meta:
 - The Digital Botanical Gardens Initiative Consortium
 header-includes: |-
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="The Digital Botanical Gardens Initiative" />
   <meta property="og:title" content="The Digital Botanical Gardens Initiative" />
   <meta property="twitter:title" content="The Digital Botanical Gardens Initiative" />
-  <meta name="dc.date" content="2022-12-23" />
-  <meta name="citation_publication_date" content="2022-12-23" />
+  <meta name="dc.date" content="2022-12-26" />
+  <meta name="citation_publication_date" content="2022-12-26" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -37,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/71cd3480ed7cc299b55f6c8a3e6f2e9ea4cb2240/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/71cd3480ed7cc299b55f6c8a3e6f2e9ea4cb2240/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/71cd3480ed7cc299b55f6c8a3e6f2e9ea4cb2240/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,10 +61,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/57d6255ef295dfdacfd38540e2268442ba14b7a2/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-green-paper/v/71cd3480ed7cc299b55f6c8a3e6f2e9ea4cb2240/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-green-paper@57d6255](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/57d6255ef295dfdacfd38540e2268442ba14b7a2)
-on December 23, 2022.
+from [digital-botanical-gardens-initiative/dbgi-green-paper@71cd348](https://github.com/digital-botanical-gardens-initiative/dbgi-green-paper/tree/71cd3480ed7cc299b55f6c8a3e6f2e9ea4cb2240)
+on December 26, 2022.
 </em></small>
 
 ## Authors
@@ -302,7 +302,7 @@ Here is the DBGI address book.
 - <i class="fa-regular fa-square-check"></i> Henry Lütcke (ETHZ)
 - <i class="fa-regular fa-square"></i> Laurent Kneubuhl (Botalista)
 - <i class="fa-regular fa-square-check"></i> Tarcisio Mendes (SIB)
-- <i class="fa-regular fa-square"></i> Daniel Mietchen
+- <i class="fa-regular fa-square-check"></i> Daniel Mietchen
 - <i class="fa-regular fa-square-check"></i> Blaise Mulhauser (JBN)
 - <i class="fa-regular fa-square"></i> Marco Pagni (SIB)
 - <i class="fa-regular fa-square"></i> Brian Sedio (University of Texas at Austin)
